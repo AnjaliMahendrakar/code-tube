@@ -2,7 +2,7 @@
 'use strict';
 const { test, before, after } = require('node:test');
 const assert = require('node:assert/strict');
-const { server } = require('../server');
+const { server } = require('../lib/codetube');
 const catalog = require('../data/catalog.json');
 
 let base;
@@ -127,4 +127,17 @@ test('vercel.json routes every app page to index.html and /api to the function',
   for (const s of ['/watch', '/results', '/paths', '/feed/history', '/@:handle', '/api/:path*']) assert.ok(sources.includes(s), s);
   const all = cfg.headers.find(h => h.source === '/(.*)');
   assert.ok(all.headers.some(h => h.key === 'Content-Security-Policy'));
+});
+
+test('no root file that Vercel would treat as a Node server entrypoint', () => {
+  const fs = require('fs');
+  const path = require('path');
+  const root = path.join(__dirname, '..');
+  for (const name of ['server', 'index', 'app', 'main']) {
+    for (const ext of ['.js', '.mjs', '.cjs', '.ts']) {
+      assert.ok(!fs.existsSync(path.join(root, name + ext)), `${name}${ext} at the repo root makes Vercel run the whole site as a function`);
+      assert.ok(!fs.existsSync(path.join(root, 'src', name + ext)), `src/${name}${ext} makes Vercel run the whole site as a function`);
+    }
+  }
+  assert.equal(require('../vercel.json').framework, null);
 });

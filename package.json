@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "A YouTube-style site of hand-picked videos for learning to code and cracking interviews, in English, Hindi and Telugu.",
   "private": true,
-  "main": "server.js",
+  "main": "start.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node start.js",
     "test": "node --test"
   },
   "engines": {

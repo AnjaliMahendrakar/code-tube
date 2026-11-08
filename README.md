@@ -16,18 +16,20 @@ You need [Node.js](https://nodejs.org) 18 or newer. There are no packages to ins
 
 ```bash
 cd code-tube
-node server.js
+node start.js
 ```
 
 Open http://localhost:3000.
 
-To use a different port: `PORT=8080 node server.js` (on Windows PowerShell: `$env:PORT=8080; node server.js`).
+To use a different port: `PORT=8080 node start.js` (on Windows PowerShell: `$env:PORT=8080; node start.js`).
 
 ## Put it online so anyone can open the link
 
 ### Vercel (recommended)
 
-The repo is ready for Vercel: `vercel.json` serves `public/` as static files, sends every `/api/*` request to the serverless function in `api/index.js`, and routes app pages like `/watch` and `/@channel` to `index.html`.
+The repo is ready for Vercel: `vercel.json` selects the "Other" preset, serves `public/` as static files, sends every `/api/*` request to the serverless function in `api/index.js`, and routes app pages like `/watch` and `/@channel` to `index.html`.
+
+Don't add a `server.js`, `index.js` or `app.js` at the repo root. Vercel treats those names as a Node server and would run every page through a function.
 
 1. Go to [vercel.com/new](https://vercel.com/new) and sign in with GitHub.
 2. Import the `code-tube` repository.
@@ -37,14 +39,15 @@ Vercel gives you a link like `https://code-tube.vercel.app`. Every push to `main
 
 ### Any Node host (Render, Railway, a VPS)
 
-Run `node server.js` as the start command. The host provides the `PORT` variable. On free plans the site may take a few seconds to wake up after a quiet period.
+Run `node start.js` (or `npm start`) as the start command. The host provides the `PORT` variable. On free plans the site may take a few seconds to wake up after a quiet period.
 
 ## How it works
 
 ```
 code-tube/
-├── server.js           Node HTTP server: JSON API + static files (no dependencies)
-├── api/index.js        Vercel serverless entry point (reuses server.js)
+├── start.js            Starts the server on your computer
+├── lib/codetube.js     JSON API + static file server (no dependencies)
+├── api/index.js        Vercel serverless entry point (reuses lib/codetube.js)
 ├── vercel.json         Vercel routing and security headers
 ├── data/catalog.json   The catalog: topics, learning paths and all videos
 ├── public/
