@@ -1,0 +1,3546 @@
+{
+ "checkedOn": "2026-11-08",
+ "topics": [
+  {
+   "id": "python",
+   "label": "Python"
+  },
+  {
+   "id": "cpp",
+   "label": "C++"
+  },
+  {
+   "id": "java",
+   "label": "Java"
+  },
+  {
+   "id": "js",
+   "label": "JavaScript & TS"
+  },
+  {
+   "id": "go",
+   "label": "Go"
+  },
+  {
+   "id": "rust",
+   "label": "Rust"
+  },
+  {
+   "id": "c",
+   "label": "C"
+  },
+  {
+   "id": "sql",
+   "label": "SQL & Databases"
+  },
+  {
+   "id": "web",
+   "label": "Web & Frontend"
+  },
+  {
+   "id": "backend",
+   "label": "Backend"
+  },
+  {
+   "id": "devops",
+   "label": "DevOps & Tools"
+  },
+  {
+   "id": "projects",
+   "label": "Build from scratch"
+  },
+  {
+   "id": "dsa",
+   "label": "DSA"
+  },
+  {
+   "id": "sysdesign",
+   "label": "System design"
+  },
+  {
+   "id": "csfund",
+   "label": "CS fundamentals"
+  },
+  {
+   "id": "interview",
+   "label": "Interview practice"
+  },
+  {
+   "id": "ml",
+   "label": "ML & deep learning"
+  },
+  {
+   "id": "genai",
+   "label": "GenAI & LLMs"
+  },
+  {
+   "id": "agents",
+   "label": "Agentic AI"
+  },
+  {
+   "id": "papers",
+   "label": "Research papers"
+  },
+  {
+   "id": "lectures",
+   "label": "University lectures"
+  },
+  {
+   "id": "talks",
+   "label": "Talks & updates"
+  }
+ ],
+ "paths": [
+  {
+   "id": "dsa",
+   "title": "DSA for placements",
+   "topic": "dsa",
+   "about": "C++ basics to Blind 75, in the order Striver's sheet expects. Finish with a mock interview.",
+   "steps": [
+    "v-EAR7De6Goz4",
+    "v-RRVYpIET_RU",
+    "p-PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+    "p-PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9",
+    "p-PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2",
+    "p-PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj",
+    "p-PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk",
+    "p-PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P",
+    "p-PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn",
+    "p-PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY",
+    "p-PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+    "v-aHZW7TuY_yo",
+    "p-PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf",
+    "v-EuPSibuIKIg"
+   ]
+  },
+  {
+   "id": "java",
+   "title": "Java backend with Spring Boot",
+   "topic": "backend",
+   "about": "Java, SQL and Git, then Spring Boot, backend fundamentals, containers and microservices.",
+   "steps": [
+    "p-PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5",
+    "v-HXV3zeQKqGY",
+    "v-RGOj5yH7evk",
+    "v-35EQXmHKZYs",
+    "p-PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x",
+    "p-PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT",
+    "p-PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1",
+    "v-3c-iBn73dDE",
+    "p-PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas",
+    "v-X48VuDVv0do",
+    "p-PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf",
+    "v-i7twT3x5yv8"
+   ]
+  },
+  {
+   "id": "csf",
+   "title": "CS fundamentals for interviews",
+   "topic": "csfund",
+   "about": "How computers work, then OS, DBMS and networks, the three subjects every interview touches.",
+   "steps": [
+    "p-PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
+    "v-2WtPyqwTLKM",
+    "p-PL9vTTBa7QaQPdvEuMTqS9McY-ieaweU8M",
+    "p-PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
+    "p-PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y",
+    "p-PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+    "p-PLyzOVJj3bHQuloKGG59rS43e29ro7I57J",
+    "p-PLowKtXNTBypGqImE405J2565dvjafglHU",
+    "v-2aHkqB2-46k"
+   ]
+  },
+  {
+   "id": "sys",
+   "title": "System design, zero to interview",
+   "topic": "sysdesign",
+   "about": "Core concepts, then real systems, distributed systems theory, low-level design and mock interviews.",
+   "steps": [
+    "v-F2FmTdLtb_4",
+    "p-PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
+    "v-i7twT3x5yv8",
+    "p-PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT",
+    "p-PLsdq-3Z1EPT27BuTnJ_trF7BsaTpYLqst",
+    "p-PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ",
+    "p-PL6W8uoQQ2c611H_IeIcNGnUATVcd2FOav",
+    "p-PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
+    "p-PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
+    "v-L9TfZdODuFQ",
+    "v-Z-0g_aJL5Fw"
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI engineer: from math to agents",
+   "topic": "agents",
+   "about": "Linear algebra and neural nets, then transformers and LLMs, then RAG, MCP and agents.",
+   "steps": [
+    "p-PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+    "p-PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+    "v-VMj-3S1tku0",
+    "p-PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+    "v-wjZofJX0v4M",
+    "v-eMlx5fFNoYc",
+    "v-kCc8FmEb1nY",
+    "v-zjkBMFhNj_g",
+    "v-7xTGNNLPyMI",
+    "p-PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o",
+    "v-tzrwxLNHtRY",
+    "v-sal78ACtGTc",
+    "v-D7_ipDqhtwk",
+    "v-Zy7EXDONlTY",
+    "p-PLS01nW3RtgopsNLeM936V4TNSsvvVglLc"
+   ]
+  },
+  {
+   "id": "web",
+   "title": "Full-stack web with JavaScript",
+   "topic": "web",
+   "about": "HTML, CSS and JavaScript, how the browser runs it, React, then a real Node backend.",
+   "steps": [
+    "v-a_iQb1lnAEQ",
+    "v-PkZNo7MFNFg",
+    "p-PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+    "v-8aGhZQkoFbQ",
+    "v-bMknfKXIFA8",
+    "v-Oe421EPjeBE",
+    "p-PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW",
+    "v-RGOj5yH7evk",
+    "v-3c-iBn73dDE"
+   ]
+  },
+  {
+   "id": "te",
+   "title": "Telugu lo start",
+   "topic": "python",
+   "about": "A Telugu-first route: Python, DSA, Java, OS, DBMS, SQL, web, Spring Boot, then AI.",
+   "steps": [
+    "v-fHKPQEVCX-s",
+    "v-25z0Gtz7PUg",
+    "v-d530rd7m_1E",
+    "v-WpdKyLXa9SU",
+    "v-DbQLWpaWLKw",
+    "v-4yEIZ9KZ_aQ",
+    "v-DeAOn0o12Dk",
+    "v-POErIIv7SGY",
+    "v-JUp864DLvss",
+    "v-7jVKwYQdKww",
+    "v-5HYnlA8c8LA"
+   ]
+  },
+  {
+   "id": "papers",
+   "title": "Read the transformer papers",
+   "topic": "papers",
+   "about": "The original paper explained, then visual intuition, an implementation, modern architectures and the research courses.",
+   "steps": [
+    "v-iDulhoQ2pro",
+    "v-wjZofJX0v4M",
+    "v-ISNdQcPhsts",
+    "v-Mn_9W1nCFLo",
+    "v-zduSFxRajkE",
+    "p-PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM",
+    "p-PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_"
+   ]
+  }
+ ],
+ "channelAliases": {
+  "takeUforward": "striver raj vikramaditya tuf",
+  "CodeHelp": "love babbar",
+  "ApnaCollegeOfficial": "shradha khapra aman dhattarwal",
+  "chaiaurcode": "hitesh choudhary",
+  "CodeWithHarry": "harry",
+  "SwaroopVITB": "code with swaroop",
+  "TheCherno": "cherno yan chernikov",
+  "Telusko": "navin reddy",
+  "Java.Brains": "koushik kothagal",
+  "gkcs": "gaurav sen",
+  "AsliEngineering": "arpit bhayani asli engineering",
+  "hnasr": "hussein nasser",
+  "TechWorldwithNana": "nana janashia",
+  "AndrejKarpathy": "karpathy",
+  "3blue1brown": "3b1b grant sanderson",
+  "statquest": "josh starmer",
+  "campusx-official": "nitish singh campusx",
+  "krishnaik06": "krish naik",
+  "KunalKushwaha": "kunal kushwaha",
+  "TheAdityaVerma": "aditya verma",
+  "GateSmashers": "varun singla gate smashers",
+  "abdul_bari": "abdul bari",
+  "NeetCodeIO": "neetcode navdeep",
+  "NeetCode": "neetcode navdeep",
+  "akshaymarch7": "akshay saini namaste",
+  "freecodecamp": "fcc free code camp",
+  "mitocw": "mit ocw",
+  "cs50": "harvard david malan"
+ },
+ "items": [
+  {
+   "id": "v-rfscVS0vtbw",
+   "type": "video",
+   "ytId": "rfscVS0vtbw",
+   "title": "Learn Python – Full Course for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "4:26:52",
+   "lang": "en",
+   "topics": [
+    "python"
+   ],
+   "about": "A calm, complete first pass: variables, loops, functions, classes and small programs.",
+   "thumb": "rfscVS0vtbw"
+  },
+  {
+   "id": "v-nLRL_NcnK-4",
+   "type": "video",
+   "ytId": "nLRL_NcnK-4",
+   "title": "Harvard CS50's Introduction to Programming with Python",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "15:57:48",
+   "lang": "en",
+   "topics": [
+    "python",
+    "lectures"
+   ],
+   "about": "David Malan's full CS50P course. The best structured beginner course, with real exercises.",
+   "thumb": "nLRL_NcnK-4"
+  },
+  {
+   "id": "p-PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU",
+   "type": "playlist",
+   "ytId": "PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU",
+   "title": "Python Tutorials",
+   "channel": "Corey Schafer",
+   "handle": "coreyms",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lD6K9DGGqWttThktCDttOdlHIHWZQ7Gcdd9WRSEqYUxw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "python"
+   ],
+   "about": "The reference series for clear, one-topic-per-video Python: OOP, decorators, files, testing.",
+   "thumb": "CqvZ3vGoGs0"
+  },
+  {
+   "id": "v-OSGv2VnC0go",
+   "type": "video",
+   "ytId": "OSGv2VnC0go",
+   "title": "Transforming Code into Beautiful, Idiomatic Python",
+   "channel": "Next Day Video",
+   "handle": "NextDayVideo",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lHKoCiAoJ7uLV-zTBscom6hhebVsYb2YDnXHlf2HBdGg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "48:51",
+   "lang": "en",
+   "topics": [
+    "python"
+   ],
+   "about": "Raymond Hettinger, a Python core developer, shows how to write loops, dicts and unpacking the Pythonic way.",
+   "thumb": "OSGv2VnC0go"
+  },
+  {
+   "id": "v-cKPlPJyQrt4",
+   "type": "video",
+   "ytId": "cKPlPJyQrt4",
+   "title": "So You Want to Be a Python Expert?",
+   "channel": "PyData",
+   "handle": "PyDataTV",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_moRnnbS0PWvx8mbcZo38NexA8OW2naLtVk4tdLj2lsdg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:54:11",
+   "lang": "en",
+   "topics": [
+    "python"
+   ],
+   "about": "Decorators, generators, metaclasses and context managers explained from first principles.",
+   "thumb": "cKPlPJyQrt4"
+  },
+  {
+   "id": "v-x7X9w_GIm1s",
+   "type": "video",
+   "ytId": "x7X9w_GIm1s",
+   "title": "Python in 100 Seconds",
+   "channel": "Fireship",
+   "handle": "Fireship",
+   "avatar": "https://yt3.googleusercontent.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:23",
+   "lang": "en",
+   "topics": [
+    "python"
+   ],
+   "about": "A fast primer to see what the language feels like.",
+   "thumb": "x7X9w_GIm1s"
+  },
+  {
+   "id": "p-PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA",
+   "type": "playlist",
+   "ytId": "PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA",
+   "title": "MIT 6.0001 Intro to Computer Science and Programming in Python",
+   "channel": "MIT OpenCourseWare",
+   "handle": "mitocw",
+   "avatar": "https://yt3.googleusercontent.com/swNtJDBP8xHP_zwrbL4tCUQt02B-7Mr8XggFMBjANHn_Q5aUtPmxPs8f8Ag3wO2O-rJpsQQGpA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "python"
+   ],
+   "about": "MIT's intro course. Teaches computational thinking, not just syntax.",
+   "thumb": "nykOeWgQcHM"
+  },
+  {
+   "id": "p-PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
+   "type": "playlist",
+   "ytId": "PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME",
+   "title": "Python Tutorials for Absolute Beginners (Hindi)",
+   "channel": "CodeWithHarry",
+   "handle": "CodeWithHarry",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "python"
+   ],
+   "about": "The most followed Hindi Python course, with exercises after each part.",
+   "thumb": "aqvDTCpNRek"
+  },
+  {
+   "id": "v-v9bOWjwdTlg",
+   "type": "video",
+   "ytId": "v9bOWjwdTlg",
+   "title": "Complete Python for Beginners in Hindi – Part 1",
+   "channel": "Chai aur Code",
+   "handle": "chaiaurcode",
+   "avatar": "https://yt3.googleusercontent.com/6tLBV-DRVemxhmanuezR5HkHshX2g7Y46Rq8cysyO1V-nd2SaQ2Fi8cdgVM-n6v_8XZ5BEimxXI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "10:22:07",
+   "lang": "hi",
+   "topics": [
+    "python"
+   ],
+   "about": "Hitesh explains how Python works underneath, not just how to type it.",
+   "thumb": "v9bOWjwdTlg"
+  },
+  {
+   "id": "v-fHKPQEVCX-s",
+   "type": "video",
+   "ytId": "fHKPQEVCX-s",
+   "title": "Python Full Course in Telugu – Zero to Hero",
+   "channel": "Swaroop Talks",
+   "handle": "SwaroopVITB",
+   "avatar": "https://yt3.googleusercontent.com/vHwkfKXT76Yp_aqJ21wBMqX2094mWUbXgUK48vT4qvKkxnEy_OWkYuROwrBqKBmEd8RN2GkK=s88-c-k-c0x00ffffff-no-rj",
+   "length": "9:10:20",
+   "lang": "te",
+   "topics": [
+    "python"
+   ],
+   "about": "One-shot Telugu Python course from Code With Swaroop. Clear and beginner friendly.",
+   "thumb": "fHKPQEVCX-s"
+  },
+  {
+   "id": "v-h1WdbfoHeac",
+   "type": "video",
+   "ytId": "h1WdbfoHeac",
+   "title": "Python Full Course in Telugu",
+   "channel": "PythonLife",
+   "handle": "PythonLifetelugu",
+   "avatar": "https://yt3.googleusercontent.com/2_QQQR7u5kW8yaXlBimqlStm36l1bZ-JNsmfuQrphLWbIo482PvAMAQ0Z-aTOazpI91iBwSAMBk=s88-c-k-c0x00ffffff-no-rj",
+   "length": "9:43:54",
+   "lang": "te",
+   "topics": [
+    "python"
+   ],
+   "about": "A complete Telugu Python course in one sitting, from basics to OOP.",
+   "thumb": "h1WdbfoHeac"
+  },
+  {
+   "id": "v-Pmsq7h_9XN4",
+   "type": "video",
+   "ytId": "Pmsq7h_9XN4",
+   "title": "Python Full Course in Telugu (10 hours)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "10:09:19",
+   "lang": "te",
+   "topics": [
+    "python"
+   ],
+   "about": "Practical Telugu explanations with examples throughout.",
+   "thumb": "Pmsq7h_9XN4"
+  },
+  {
+   "id": "p-PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+   "type": "playlist",
+   "ytId": "PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+   "title": "C++ Series",
+   "channel": "The Cherno",
+   "handle": "TheCherno",
+   "avatar": "https://yt3.googleusercontent.com/EmbIHnpmF1J0LgyUbCMK7QmfDZZm7u_GQd5eVx4XG06wIvgbagCY6WYpf2fvSdPoL1LMLkw8Iw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "cpp"
+   ],
+   "about": "A game-engine developer shows how C++ really works: memory, pointers, templates, move semantics.",
+   "thumb": "18c3MTX0PK0"
+  },
+  {
+   "id": "v-EAR7De6Goz4",
+   "type": "video",
+   "ytId": "EAR7De6Goz4",
+   "title": "C++ Basics in One Shot (A2Z DSA L1)",
+   "channel": "take U forward",
+   "handle": "takeUforward",
+   "avatar": "https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:26:26",
+   "lang": "en",
+   "topics": [
+    "cpp",
+    "dsa"
+   ],
+   "about": "Exactly the C++ you need before starting Striver's sheet.",
+   "thumb": "EAR7De6Goz4"
+  },
+  {
+   "id": "v-RRVYpIET_RU",
+   "type": "video",
+   "ytId": "RRVYpIET_RU",
+   "title": "Complete C++ STL in 1 Video",
+   "channel": "take U forward",
+   "handle": "takeUforward",
+   "avatar": "https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:07:36",
+   "lang": "en",
+   "topics": [
+    "cpp",
+    "dsa"
+   ],
+   "about": "vector, map, set, priority_queue and more, with time complexities.",
+   "thumb": "RRVYpIET_RU"
+  },
+  {
+   "id": "p-PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L",
+   "type": "playlist",
+   "ytId": "PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L",
+   "title": "The C++ Programming Language (Modern C++)",
+   "channel": "Mike Shah",
+   "handle": "MikeShah",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_m8LOFtEDwOybLI9O0OCTUikPclJBXe2LY-XEOFmyLSYVE=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "cpp"
+   ],
+   "about": "A university professor's modern C++ series, clear and thorough.",
+   "thumb": "LGOgNqkRMs0"
+  },
+  {
+   "id": "v-vLnPwxZdW4Y",
+   "type": "video",
+   "ytId": "vLnPwxZdW4Y",
+   "title": "C++ Tutorial for Beginners – Full Course",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "4:01:18",
+   "lang": "en",
+   "topics": [
+    "cpp"
+   ],
+   "about": "A solid single-video introduction to C++ syntax and ideas.",
+   "thumb": "vLnPwxZdW4Y"
+  },
+  {
+   "id": "p-PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL",
+   "type": "playlist",
+   "ytId": "PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL",
+   "title": "C++ Tutorials in Hindi",
+   "channel": "CodeWithHarry",
+   "handle": "CodeWithHarry",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "cpp"
+   ],
+   "about": "Step-by-step C++ in Hindi, including OOP.",
+   "thumb": "j8nAHeVKL08"
+  },
+  {
+   "id": "p-PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA",
+   "type": "playlist",
+   "ytId": "PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA",
+   "title": "Stanford CS106L: Standard C++ Programming",
+   "channel": "Avery Wang",
+   "handle": "averywang9289",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lVgVWJEl5NSADqMBL1b25UQl3q6hyb2993VLv73JSzbiM=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "cpp",
+    "lectures"
+   ],
+   "about": "Stanford's course on modern C++ and the STL.",
+   "thumb": "RzuSEM9Gw4U"
+  },
+  {
+   "id": "v-xnqTKD8uD64",
+   "type": "video",
+   "ytId": "xnqTKD8uD64",
+   "title": "Back to the Basics! Essentials of Modern C++ Style",
+   "channel": "CppCon",
+   "handle": "CppCon",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_l0Ji0L8P1v-r0c5MwPcEUM9NwrhI-B7NK9qF2sO6oM-w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:40:26",
+   "lang": "en",
+   "topics": [
+    "cpp",
+    "talks"
+   ],
+   "about": "Herb Sutter on how to write everyday modern C++.",
+   "thumb": "xnqTKD8uD64"
+  },
+  {
+   "id": "v-xGDLkt-jBJ4",
+   "type": "video",
+   "ytId": "xGDLkt-jBJ4",
+   "title": "Back to Basics: Smart Pointers",
+   "channel": "CppCon",
+   "handle": "CppCon",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_l0Ji0L8P1v-r0c5MwPcEUM9NwrhI-B7NK9qF2sO6oM-w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:00:50",
+   "lang": "en",
+   "topics": [
+    "cpp"
+   ],
+   "about": "Arthur O'Dwyer makes unique_ptr and shared_ptr obvious.",
+   "thumb": "xGDLkt-jBJ4"
+  },
+  {
+   "id": "v-i_Z_o9T2fNE",
+   "type": "video",
+   "ytId": "i_Z_o9T2fNE",
+   "title": "Back to Basics: Rvalues and Move Semantics",
+   "channel": "CppCon",
+   "handle": "CppCon",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_l0Ji0L8P1v-r0c5MwPcEUM9NwrhI-B7NK9qF2sO6oM-w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "59:45",
+   "lang": "en",
+   "topics": [
+    "cpp"
+   ],
+   "about": "The clearest explanation of moves and rvalue references.",
+   "thumb": "i_Z_o9T2fNE"
+  },
+  {
+   "id": "v-48gV1SNm3WA",
+   "type": "video",
+   "ytId": "48gV1SNm3WA",
+   "title": "Algorithm Intuition",
+   "channel": "CppNow",
+   "handle": "CppNow",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_l3B9cDDS8zlgWAKFzKMcdMimITomXNPZHYlsQXgIW9Uw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:28:58",
+   "lang": "en",
+   "topics": [
+    "cpp",
+    "dsa"
+   ],
+   "about": "Conor Hoekstra on thinking with STL algorithms instead of raw loops.",
+   "thumb": "48gV1SNm3WA"
+  },
+  {
+   "id": "v-fHNmRkzxHWs",
+   "type": "video",
+   "ytId": "fHNmRkzxHWs",
+   "title": "Efficiency with Algorithms, Performance with Data Structures",
+   "channel": "CppCon",
+   "handle": "CppCon",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_l0Ji0L8P1v-r0c5MwPcEUM9NwrhI-B7NK9qF2sO6oM-w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:13:41",
+   "lang": "en",
+   "topics": [
+    "cpp"
+   ],
+   "about": "Chandler Carruth on why cache-friendly data structures win.",
+   "thumb": "fHNmRkzxHWs"
+  },
+  {
+   "id": "v-rX0ItVEVjHc",
+   "type": "video",
+   "ytId": "rX0ItVEVjHc",
+   "title": "Data-Oriented Design and C++",
+   "channel": "CppCon",
+   "handle": "CppCon",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_l0Ji0L8P1v-r0c5MwPcEUM9NwrhI-B7NK9qF2sO6oM-w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:27:46",
+   "lang": "en",
+   "topics": [
+    "cpp",
+    "talks"
+   ],
+   "about": "Mike Acton's famous talk: the data, not the code, is the problem.",
+   "thumb": "rX0ItVEVjHc"
+  },
+  {
+   "id": "p-PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5",
+   "type": "playlist",
+   "ytId": "PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5",
+   "title": "Java Tutorial for Beginners",
+   "channel": "Telusko",
+   "handle": "Telusko",
+   "avatar": "https://yt3.googleusercontent.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "java"
+   ],
+   "about": "Navin Reddy's patient, example-led Java course.",
+   "thumb": "bm0OyhwFDuY"
+  },
+  {
+   "id": "v-A74TOX803D0",
+   "type": "video",
+   "ytId": "A74TOX803D0",
+   "title": "Java Programming for Beginners – Full Course",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "4:10:59",
+   "lang": "en",
+   "topics": [
+    "java"
+   ],
+   "about": "A complete single-video Java introduction.",
+   "thumb": "A74TOX803D0"
+  },
+  {
+   "id": "p-PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+   "type": "playlist",
+   "ytId": "PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ",
+   "title": "Java + DSA + Interview Preparation",
+   "channel": "Kunal Kushwaha",
+   "handle": "KunalKushwaha",
+   "avatar": "https://yt3.googleusercontent.com/O8WpyZ5fkSpxQJDMA1N1WZeUp4foB4LTDeaQrRlZX_Ue4GTyMnz2J2yi4kXR4BNpGI55uzEs=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "java",
+    "dsa"
+   ],
+   "about": "Java from scratch, then DSA in depth, with thorough notes.",
+   "thumb": "rZ41y93P2Qo"
+  },
+  {
+   "id": "v-4_HOnhB64Dg",
+   "type": "video",
+   "ytId": "4_HOnhB64Dg",
+   "title": "Data Structures and Algorithms in Java",
+   "channel": "Telusko",
+   "handle": "Telusko",
+   "avatar": "https://yt3.googleusercontent.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s88-c-k-c0x00ffffff-no-rj",
+   "length": "4:54:16",
+   "lang": "en",
+   "topics": [
+    "java",
+    "dsa"
+   ],
+   "about": "Core data structures implemented in Java.",
+   "thumb": "4_HOnhB64Dg"
+  },
+  {
+   "id": "p-PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+   "type": "playlist",
+   "ytId": "PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q",
+   "title": "Java Tutorials for Beginners (Hindi)",
+   "channel": "CodeWithHarry",
+   "handle": "CodeWithHarry",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "java"
+   ],
+   "about": "Java and OOP in Hindi with practice sets.",
+   "thumb": "ntLJmHOJ0ME"
+  },
+  {
+   "id": "v-d530rd7m_1E",
+   "type": "video",
+   "ytId": "d530rd7m_1E",
+   "title": "Java Full Course in Telugu (9 hours)",
+   "channel": "Swaroop Talks",
+   "handle": "SwaroopVITB",
+   "avatar": "https://yt3.googleusercontent.com/vHwkfKXT76Yp_aqJ21wBMqX2094mWUbXgUK48vT4qvKkxnEy_OWkYuROwrBqKBmEd8RN2GkK=s88-c-k-c0x00ffffff-no-rj",
+   "length": "9:23:45",
+   "lang": "te",
+   "topics": [
+    "java"
+   ],
+   "about": "Zero to advanced Java in Telugu in one video.",
+   "thumb": "d530rd7m_1E"
+  },
+  {
+   "id": "v-aMaayeDW360",
+   "type": "video",
+   "ytId": "aMaayeDW360",
+   "title": "Java Full Course in 10 Hours (Telugu)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "10:00:43",
+   "lang": "te",
+   "topics": [
+    "java"
+   ],
+   "about": "A practical Telugu Java course.",
+   "thumb": "aMaayeDW360"
+  },
+  {
+   "id": "v-PkZNo7MFNFg",
+   "type": "video",
+   "ytId": "PkZNo7MFNFg",
+   "title": "Learn JavaScript – Full Course for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "3:26:43",
+   "lang": "en",
+   "topics": [
+    "js"
+   ],
+   "about": "Beau Carnes' classic JavaScript fundamentals course.",
+   "thumb": "PkZNo7MFNFg"
+  },
+  {
+   "id": "p-PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+   "type": "playlist",
+   "ytId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+   "title": "Namaste JavaScript",
+   "channel": "Akshay Saini",
+   "handle": "akshaymarch7",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_md2CfeGP7cDguRmrpRdM3a1r_gOniMzennD6141VLFw70=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "js"
+   ],
+   "about": "How JavaScript really runs: execution context, hoisting, closures, the event loop.",
+   "thumb": "pN6jk0uUrD8"
+  },
+  {
+   "id": "v-8aGhZQkoFbQ",
+   "type": "video",
+   "ytId": "8aGhZQkoFbQ",
+   "title": "What the Heck Is the Event Loop Anyway?",
+   "channel": "JSConf",
+   "handle": "jsconf_",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_ltRigbEjK9HfAhlU6gVdqYyHN7uulgrQfff_RXtLU0e-8=s88-c-k-c0x00ffffff-no-rj",
+   "length": "26:52",
+   "lang": "en",
+   "topics": [
+    "js",
+    "talks"
+   ],
+   "about": "Philip Roberts' famous talk. The event loop in one picture.",
+   "thumb": "8aGhZQkoFbQ"
+  },
+  {
+   "id": "v-cCOL7MC4Pl0",
+   "type": "video",
+   "ytId": "cCOL7MC4Pl0",
+   "title": "In the Loop: The Browser Event Loop",
+   "channel": "JSConf",
+   "handle": "jsconf_",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_ltRigbEjK9HfAhlU6gVdqYyHN7uulgrQfff_RXtLU0e-8=s88-c-k-c0x00ffffff-no-rj",
+   "length": "35:12",
+   "lang": "en",
+   "topics": [
+    "js"
+   ],
+   "about": "Jake Archibald on tasks, microtasks and rendering.",
+   "thumb": "cCOL7MC4Pl0"
+  },
+  {
+   "id": "v-Bv_5Zv5c-Ts",
+   "type": "video",
+   "ytId": "Bv_5Zv5c-Ts",
+   "title": "JavaScript: Understanding the Weird Parts",
+   "channel": "Tony Alicea",
+   "handle": "TonyAlicea",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_msLeP6-6J1LUTKOmbZveTEZCqZtgL2Y8dhHtVAO2-0HN1r=s88-c-k-c0x00ffffff-no-rj",
+   "length": "3:32:50",
+   "lang": "en",
+   "topics": [
+    "js"
+   ],
+   "about": "The first 3.5 hours of the course that explains JavaScript's odd behaviour.",
+   "thumb": "Bv_5Zv5c-Ts"
+  },
+  {
+   "id": "v-30LWjhZzg50",
+   "type": "video",
+   "ytId": "30LWjhZzg50",
+   "title": "Learn TypeScript – Full Tutorial",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "4:46:25",
+   "lang": "en",
+   "topics": [
+    "js"
+   ],
+   "about": "TypeScript from types to generics.",
+   "thumb": "30LWjhZzg50"
+  },
+  {
+   "id": "v-zQnBQ4tB3ZA",
+   "type": "video",
+   "ytId": "zQnBQ4tB3ZA",
+   "title": "TypeScript in 100 Seconds",
+   "channel": "Fireship",
+   "handle": "Fireship",
+   "avatar": "https://yt3.googleusercontent.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:25",
+   "lang": "en",
+   "topics": [
+    "js"
+   ],
+   "about": "A quick primer.",
+   "thumb": "zQnBQ4tB3ZA"
+  },
+  {
+   "id": "p-PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+   "type": "playlist",
+   "ytId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+   "title": "Chai aur JavaScript",
+   "channel": "Chai aur Code",
+   "handle": "chaiaurcode",
+   "avatar": "https://yt3.googleusercontent.com/6tLBV-DRVemxhmanuezR5HkHshX2g7Y46Rq8cysyO1V-nd2SaQ2Fi8cdgVM-n6v_8XZ5BEimxXI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "js"
+   ],
+   "about": "JavaScript in Hindi from basics to how it works behind the scenes.",
+   "thumb": "Hr5iLG7sUa0"
+  },
+  {
+   "id": "v-9qEMbbNGAGI",
+   "type": "video",
+   "ytId": "9qEMbbNGAGI",
+   "title": "JavaScript Course in Telugu",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "49:05",
+   "lang": "te",
+   "topics": [
+    "js"
+   ],
+   "about": "A compact Telugu introduction to JavaScript.",
+   "thumb": "9qEMbbNGAGI"
+  },
+  {
+   "id": "v-un6ZyFkqFKo",
+   "type": "video",
+   "ytId": "un6ZyFkqFKo",
+   "title": "Go Programming – Golang Course with Bonus Projects",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "9:32:47",
+   "lang": "en",
+   "topics": [
+    "go"
+   ],
+   "about": "Lane Wagner's full Go course with projects.",
+   "thumb": "un6ZyFkqFKo"
+  },
+  {
+   "id": "v-f6kdp27TYZs",
+   "type": "video",
+   "ytId": "f6kdp27TYZs",
+   "title": "Go Concurrency Patterns",
+   "channel": "Google for Developers",
+   "handle": "GoogleDevelopers",
+   "avatar": "https://yt3.googleusercontent.com/r99eRlOesQkJe7pOzDY4JazAlhidoVp-0syxBnYjfeHdmUXGa5zOxcozaxKF2oPHg3RkglecZQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "51:27",
+   "lang": "en",
+   "topics": [
+    "go",
+    "talks"
+   ],
+   "about": "Rob Pike on goroutines and channels. Still the best intro to Go concurrency.",
+   "thumb": "f6kdp27TYZs"
+  },
+  {
+   "id": "v-oV9rvDllKEg",
+   "type": "video",
+   "ytId": "oV9rvDllKEg",
+   "title": "Concurrency Is Not Parallelism",
+   "channel": "gnbitcom",
+   "handle": "gnbitcom",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_n3rW7C5X5AOreJwxghMG3zg8dkBoNkBg90AlFkjDEllg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "31:22",
+   "lang": "en",
+   "topics": [
+    "go",
+    "talks"
+   ],
+   "about": "Rob Pike on the distinction every backend engineer should know.",
+   "thumb": "oV9rvDllKEg"
+  },
+  {
+   "id": "v-rFejpH_tAHM",
+   "type": "video",
+   "ytId": "rFejpH_tAHM",
+   "title": "Simplicity Is Complicated",
+   "channel": "dotconferences",
+   "handle": "dotconferences",
+   "avatar": "https://yt3.googleusercontent.com/1Nw7b_sUZCyy_0zWAmsFIFFisL3Y7lD8O_IA35BuxI0Wzw1cA8cfODYFWagOtNKYYeOhUbPy=s88-c-k-c0x00ffffff-no-rj",
+   "length": "23:11",
+   "lang": "en",
+   "topics": [
+    "go",
+    "talks"
+   ],
+   "about": "Rob Pike on why Go is designed the way it is.",
+   "thumb": "rFejpH_tAHM"
+  },
+  {
+   "id": "v-446E-r0rXHI",
+   "type": "video",
+   "ytId": "446E-r0rXHI",
+   "title": "Go in 100 Seconds",
+   "channel": "Fireship",
+   "handle": "Fireship",
+   "avatar": "https://yt3.googleusercontent.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:29",
+   "lang": "en",
+   "topics": [
+    "go"
+   ],
+   "about": "A quick primer.",
+   "thumb": "446E-r0rXHI"
+  },
+  {
+   "id": "p-PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8",
+   "type": "playlist",
+   "ytId": "PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8",
+   "title": "The Rust Lang Book (video series)",
+   "channel": "Let's Get Rusty",
+   "handle": "letsgetrusty",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nhsb1R9TQk_lpPs8bV8s2Pk5xoTCQEUn6i4C-Wtrt9Dw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "rust"
+   ],
+   "about": "The official Rust book, chapter by chapter, explained.",
+   "thumb": "OX9HJsJUDxA"
+  },
+  {
+   "id": "v-MsocPEZBd-M",
+   "type": "video",
+   "ytId": "MsocPEZBd-M",
+   "title": "Rust Programming Course for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:25:36",
+   "lang": "en",
+   "topics": [
+    "rust"
+   ],
+   "about": "A short, clear start to Rust.",
+   "thumb": "MsocPEZBd-M"
+  },
+  {
+   "id": "p-PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa",
+   "type": "playlist",
+   "ytId": "PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa",
+   "title": "Crust of Rust",
+   "channel": "Jon Gjengset",
+   "handle": "jonhoo",
+   "avatar": "https://yt3.googleusercontent.com/qeOPL5VD3HyYtB2IR45AamePTTlAPLAVMIJR1gnqB8-RB5giim7SBLhOz2NRYZx-CeBAF3wp=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "rust"
+   ],
+   "about": "Deep dives into lifetimes, iterators, smart pointers and async. For after the basics.",
+   "thumb": "rAl-9HwD858"
+  },
+  {
+   "id": "v-br3GIIQeefY",
+   "type": "video",
+   "ytId": "br3GIIQeefY",
+   "title": "Rust for the Impatient",
+   "channel": "No Boilerplate",
+   "handle": "NoBoilerplate",
+   "avatar": "https://yt3.googleusercontent.com/PmKxwlKDcB9iLB_y5rVNJZ80pJjZR9HKjmQIer-H22XhO3uINjhmv9ouPedH1OBeDtrGtY9bNgw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "10:42",
+   "lang": "en",
+   "topics": [
+    "rust"
+   ],
+   "about": "Rust's core ideas in ten minutes.",
+   "thumb": "br3GIIQeefY"
+  },
+  {
+   "id": "v-5C_HPTJg5ek",
+   "type": "video",
+   "ytId": "5C_HPTJg5ek",
+   "title": "Rust in 100 Seconds",
+   "channel": "Fireship",
+   "handle": "Fireship",
+   "avatar": "https://yt3.googleusercontent.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:29",
+   "lang": "en",
+   "topics": [
+    "rust"
+   ],
+   "about": "A quick primer.",
+   "thumb": "5C_HPTJg5ek"
+  },
+  {
+   "id": "v-KJgsSFOSQv0",
+   "type": "video",
+   "ytId": "KJgsSFOSQv0",
+   "title": "C Programming Tutorial for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "3:46:13",
+   "lang": "en",
+   "topics": [
+    "c"
+   ],
+   "about": "A gentle, complete C introduction.",
+   "thumb": "KJgsSFOSQv0"
+  },
+  {
+   "id": "p-PLhQjrBD2T383f9scHRNYJkior2VvYjpSL",
+   "type": "playlist",
+   "ytId": "PLhQjrBD2T383f9scHRNYJkior2VvYjpSL",
+   "title": "CS50 Lectures 2021",
+   "channel": "CS50",
+   "handle": "cs50",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "c",
+    "lectures"
+   ],
+   "about": "Harvard's CS50: C, memory, data structures, then Python and web.",
+   "thumb": "NZxALvNlF-8"
+  },
+  {
+   "id": "v-2WtPyqwTLKM",
+   "type": "video",
+   "ytId": "2WtPyqwTLKM",
+   "title": "CS50x 2025 – Lecture 0: Scratch",
+   "channel": "CS50",
+   "handle": "cs50",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_m7MWMBm4PynPndRMCxUEfNcU9Eufkk5ZkYI5RNjPchQ_c=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:58:56",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "c"
+   ],
+   "about": "The latest CS50 opening lecture. A great first lecture in computer science.",
+   "thumb": "2WtPyqwTLKM"
+  },
+  {
+   "id": "v-pdPRdhify1Q",
+   "type": "video",
+   "ytId": "pdPRdhify1Q",
+   "title": "C Language Full Course (Telugu)",
+   "channel": "Swaroop Talks",
+   "handle": "SwaroopVITB",
+   "avatar": "https://yt3.googleusercontent.com/vHwkfKXT76Yp_aqJ21wBMqX2094mWUbXgUK48vT4qvKkxnEy_OWkYuROwrBqKBmEd8RN2GkK=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:34:56",
+   "lang": "te",
+   "topics": [
+    "c"
+   ],
+   "about": "C basics in Telugu in under two hours.",
+   "thumb": "pdPRdhify1Q"
+  },
+  {
+   "id": "v-HXV3zeQKqGY",
+   "type": "video",
+   "ytId": "HXV3zeQKqGY",
+   "title": "SQL Tutorial – Full Database Course for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "4:20:39",
+   "lang": "en",
+   "topics": [
+    "sql"
+   ],
+   "about": "Queries, joins, schema design and more.",
+   "thumb": "HXV3zeQKqGY"
+  },
+  {
+   "id": "p-PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf",
+   "type": "playlist",
+   "ytId": "PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf",
+   "title": "CMU 15-445 Intro to Database Systems (Fall 2022)",
+   "channel": "CMU Database Group",
+   "handle": "CMUDatabaseGroup",
+   "avatar": "https://yt3.googleusercontent.com/JvxHZCNPDPvOVR7RybRBruUFsP12QGOw_6VurxvV6VH4KMXQT52AcYowP8YuMhFoiVn5FcGWoA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "sql",
+    "csfund",
+    "lectures"
+   ],
+   "about": "Andy Pavlo's course on how databases work inside: storage, indexes, transactions.",
+   "thumb": "uikbtpVZS2s"
+  },
+  {
+   "id": "v-4yEIZ9KZ_aQ",
+   "type": "video",
+   "ytId": "4yEIZ9KZ_aQ",
+   "title": "SQL Full Course in Telugu",
+   "channel": "Dodagatta Nihar",
+   "handle": "niharrdg",
+   "avatar": "https://yt3.googleusercontent.com/zZV4lN5KEaiikxKGLImD07WBDFvYswh61klgQ4wNtLVC3BN3qBKmAqv9Bj2CwJFTAmO0OW_62w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:30:08",
+   "lang": "te",
+   "topics": [
+    "sql"
+   ],
+   "about": "A popular Telugu SQL course with notes and interview questions.",
+   "thumb": "4yEIZ9KZ_aQ"
+  },
+  {
+   "id": "v-IkUTX9WerXA",
+   "type": "video",
+   "ytId": "IkUTX9WerXA",
+   "title": "SQL in One Hour (Telugu)",
+   "channel": "Chandoo – Tech in Telugu",
+   "handle": "data_with_chandoo",
+   "avatar": "https://yt3.googleusercontent.com/c0wZniPmDuPUo-EwQwWzYiLu9N9axEFY9JAhcLPeCE7fQAdNohupirU_ss_8nv-42wrT-11-Mg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:06:12",
+   "lang": "te",
+   "topics": [
+    "sql"
+   ],
+   "about": "A fast Telugu SQL start with sample queries.",
+   "thumb": "IkUTX9WerXA"
+  },
+  {
+   "id": "v-a_iQb1lnAEQ",
+   "type": "video",
+   "ytId": "a_iQb1lnAEQ",
+   "title": "Learn HTML & CSS – Full Course for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "5:21:44",
+   "lang": "en",
+   "topics": [
+    "web"
+   ],
+   "about": "A complete start to building web pages with HTML and CSS.",
+   "thumb": "a_iQb1lnAEQ"
+  },
+  {
+   "id": "v-bMknfKXIFA8",
+   "type": "video",
+   "ytId": "bMknfKXIFA8",
+   "title": "React Course – Beginner's Tutorial",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "11:55:27",
+   "lang": "en",
+   "topics": [
+    "web",
+    "js"
+   ],
+   "about": "Bob Ziroll's hands-on React course.",
+   "thumb": "bMknfKXIFA8"
+  },
+  {
+   "id": "v-SqcY0GlETPk",
+   "type": "video",
+   "ytId": "SqcY0GlETPk",
+   "title": "React Tutorial for Beginners",
+   "channel": "Programming with Mosh",
+   "handle": "programmingwithmosh",
+   "avatar": "https://yt3.googleusercontent.com/HCv0fXFEEcD0HRyF0_qR1K7b7qO3KCzmIoyH1DEJYB94CIUFhIE5i2t2IDIPX97W1-DK4hegww=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:20:04",
+   "lang": "en",
+   "topics": [
+    "web",
+    "js"
+   ],
+   "about": "A tight, well-paced React introduction.",
+   "thumb": "SqcY0GlETPk"
+  },
+  {
+   "id": "p-PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige",
+   "type": "playlist",
+   "ytId": "PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige",
+   "title": "Chai aur React (with projects)",
+   "channel": "Chai aur Code",
+   "handle": "chaiaurcode",
+   "avatar": "https://yt3.googleusercontent.com/6tLBV-DRVemxhmanuezR5HkHshX2g7Y46Rq8cysyO1V-nd2SaQ2Fi8cdgVM-n6v_8XZ5BEimxXI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "web",
+    "js"
+   ],
+   "about": "React in Hindi, built through projects.",
+   "thumb": "vz1RlUyrc3w"
+  },
+  {
+   "id": "p-PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+   "type": "playlist",
+   "ytId": "PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+   "title": "Sigma Web Development Course",
+   "channel": "CodeWithHarry",
+   "handle": "CodeWithHarry",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "web"
+   ],
+   "about": "A full web development course in Hindi, frontend to backend.",
+   "thumb": "tVzUXW6siu0"
+  },
+  {
+   "id": "v-DeAOn0o12Dk",
+   "type": "video",
+   "ytId": "DeAOn0o12Dk",
+   "title": "HTML, CSS & JavaScript in Telugu (12 hours)",
+   "channel": "TechZoom Media",
+   "handle": "techzoommedia",
+   "avatar": "https://yt3.googleusercontent.com/hvilzDeiu_D87bPvMuhVvZSobZ3_Rly7RBA-sBSCiLjziKh2Zy4YpCn-DZLOJfVH4_L_SHZz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "11:58:40",
+   "lang": "te",
+   "topics": [
+    "web"
+   ],
+   "about": "A complete Telugu web development course.",
+   "thumb": "DeAOn0o12Dk"
+  },
+  {
+   "id": "v-lGKGDxwvrEQ",
+   "type": "video",
+   "ytId": "lGKGDxwvrEQ",
+   "title": "HTML Full Course in Telugu",
+   "channel": "Swaroop Talks",
+   "handle": "SwaroopVITB",
+   "avatar": "https://yt3.googleusercontent.com/vHwkfKXT76Yp_aqJ21wBMqX2094mWUbXgUK48vT4qvKkxnEy_OWkYuROwrBqKBmEd8RN2GkK=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:17:22",
+   "lang": "te",
+   "topics": [
+    "web"
+   ],
+   "about": "HTML from zero in Telugu.",
+   "thumb": "lGKGDxwvrEQ"
+  },
+  {
+   "id": "v-35EQXmHKZYs",
+   "type": "video",
+   "ytId": "35EQXmHKZYs",
+   "title": "Spring Boot Tutorials – Full Course",
+   "channel": "Telusko",
+   "handle": "Telusko",
+   "avatar": "https://yt3.googleusercontent.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:48:08",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "java"
+   ],
+   "about": "The most watched Spring Boot intro. Clear on dependency injection and REST.",
+   "thumb": "35EQXmHKZYs"
+  },
+  {
+   "id": "p-PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF",
+   "type": "playlist",
+   "ytId": "PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF",
+   "title": "Spring 6 and Spring Boot for Beginners",
+   "channel": "Telusko",
+   "handle": "Telusko",
+   "avatar": "https://yt3.googleusercontent.com/0nsZM3NF0C9bFr2IFXicMJ1w82ldRaZvGKFnezBe2lpW7F9gI92FaLubcTghnNNt4Ld8DfRvEMo=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "java"
+   ],
+   "about": "A step-by-step Spring course from core concepts to Boot.",
+   "thumb": "Zxwq3aW9ctU"
+  },
+  {
+   "id": "p-PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x",
+   "type": "playlist",
+   "ytId": "PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x",
+   "title": "Spring Boot Quick Start",
+   "channel": "Java Brains",
+   "handle": "Java.Brains",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lmaF_GeniSVq_4f6aXnwrP4GBI6g3EANm3vfs-aGyr1R8=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "java"
+   ],
+   "about": "Koushik's classic Spring Boot walkthrough.",
+   "thumb": "msXL2oDexqw"
+  },
+  {
+   "id": "p-PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas",
+   "type": "playlist",
+   "ytId": "PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas",
+   "title": "Spring Boot Microservices: Communication and Discovery",
+   "channel": "Java Brains",
+   "handle": "Java.Brains",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lmaF_GeniSVq_4f6aXnwrP4GBI6g3EANm3vfs-aGyr1R8=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "java",
+    "sysdesign"
+   ],
+   "about": "Microservices with Spring, explained clearly.",
+   "thumb": "y8IQb4ofjDo"
+  },
+  {
+   "id": "v-9SGDpanrc8U",
+   "type": "video",
+   "ytId": "9SGDpanrc8U",
+   "title": "Spring Boot Tutorial – Full Course",
+   "channel": "Amigoscode",
+   "handle": "amigoscode",
+   "avatar": "https://yt3.googleusercontent.com/j7KM4l3IN-FxZb881xAD3QhQIosMM1978leBKGfLmCnQxbazoep9BqDnolH-gievUTGGzEwqQA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:37:30",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "java"
+   ],
+   "about": "Builds a working Spring Boot API end to end.",
+   "thumb": "9SGDpanrc8U"
+  },
+  {
+   "id": "p-PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue",
+   "type": "playlist",
+   "ytId": "PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue",
+   "title": "Spring Boot Mastery: Basics to Advanced",
+   "channel": "Engineering Digest",
+   "handle": "EngineeringDigest",
+   "avatar": "https://yt3.googleusercontent.com/NrOsX1CyzEVMsLzz4IEvPbS3efe-yqOVvRPYG7MMdBbwL5VveXS5a_zbRwJv6z-2EQYeLy1l=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "backend",
+    "java"
+   ],
+   "about": "A thorough Spring Boot series in Hindi.",
+   "thumb": "1993zSY5UBI"
+  },
+  {
+   "id": "v-POErIIv7SGY",
+   "type": "video",
+   "ytId": "POErIIv7SGY",
+   "title": "Spring Boot + Microservices Full Course (Telugu)",
+   "channel": "Kaarthik For U",
+   "handle": "KaarthikForU",
+   "avatar": "https://yt3.googleusercontent.com/0hXHW7IZWAlaRKtsTL6iF-MkaPltd-hQgcGNAsZlnyaK_1hnpmS78kSobgWeg3BEGtihfGhltQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "6:19:24",
+   "lang": "te",
+   "topics": [
+    "backend",
+    "java"
+   ],
+   "about": "Spring Boot and microservices explained in Telugu.",
+   "thumb": "POErIIv7SGY"
+  },
+  {
+   "id": "p-PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT",
+   "type": "playlist",
+   "ytId": "PLQnljOFTspQUNnO4p00ua_C5mKTfldiYT",
+   "title": "Backend Engineering (Beginner)",
+   "channel": "Hussein Nasser",
+   "handle": "hnasr",
+   "avatar": "https://yt3.googleusercontent.com/wdZxAigelIgebOT-NlWwVnvOijYuHttaa5jSpCuxlYajSEbfp75dVPSItmer-6jCrKACKChheAE=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "sysdesign"
+   ],
+   "about": "How backends really communicate: protocols, connections, proxies.",
+   "thumb": "V3ZPPPKEipA"
+  },
+  {
+   "id": "p-PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1",
+   "type": "playlist",
+   "ytId": "PLui3EUkuMTPgZcV0QhQrOcwMPcBCcd_Q1",
+   "title": "Backend from First Principles",
+   "channel": "Sriniously",
+   "handle": "sriniously",
+   "avatar": "https://yt3.googleusercontent.com/7mAkVUE_h0RVubIrH_ULdbiJ8WSlJOjZsUY1u9oEGDQY84OBorNau2NmdWyG6O9wylz_ne8acc0=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "backend"
+   ],
+   "about": "Backend concepts from the ground up, independent of any framework.",
+   "thumb": "0Rwb4Xmlcwc"
+  },
+  {
+   "id": "p-PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW",
+   "type": "playlist",
+   "ytId": "PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW",
+   "title": "Chai aur JavaScript Backend (builds a YouTube backend)",
+   "channel": "Chai aur Code",
+   "handle": "chaiaurcode",
+   "avatar": "https://yt3.googleusercontent.com/6tLBV-DRVemxhmanuezR5HkHshX2g7Y46Rq8cysyO1V-nd2SaQ2Fi8cdgVM-n6v_8XZ5BEimxXI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "backend",
+    "projects",
+    "js"
+   ],
+   "about": "Builds a production-style backend for a YouTube clone. A perfect match for this project.",
+   "thumb": "EH3vGeqeIAo"
+  },
+  {
+   "id": "v-Oe421EPjeBE",
+   "type": "video",
+   "ytId": "Oe421EPjeBE",
+   "title": "Node.js and Express.js – Full Course",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "8:16:47",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "js"
+   ],
+   "about": "John Smilga's Node and Express course.",
+   "thumb": "Oe421EPjeBE"
+  },
+  {
+   "id": "v-0sOvCWFmrtA",
+   "type": "video",
+   "ytId": "0sOvCWFmrtA",
+   "title": "Python API Development (FastAPI) – Comprehensive Course",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "19:00:27",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "python"
+   ],
+   "about": "A complete API with FastAPI, Postgres, auth, testing and deployment.",
+   "thumb": "0sOvCWFmrtA"
+  },
+  {
+   "id": "p-PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+   "type": "playlist",
+   "ytId": "PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p",
+   "title": "Django Tutorials",
+   "channel": "Corey Schafer",
+   "handle": "coreyms",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lD6K9DGGqWttThktCDttOdlHIHWZQ7Gcdd9WRSEqYUxw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "backend",
+    "python"
+   ],
+   "about": "Builds a full Django blog app step by step.",
+   "thumb": "UmljXZIypDc"
+  },
+  {
+   "id": "p-PLyzOVJj3bHQuloKGG59rS43e29ro7I57J",
+   "type": "playlist",
+   "ytId": "PLyzOVJj3bHQuloKGG59rS43e29ro7I57J",
+   "title": "The Missing Semester of Your CS Education",
+   "channel": "Missing Semester",
+   "handle": "MissingSemester",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_msRZQBf5kLdrW-PHW_5gCeBVcs9e2gf5EaZIDkdivYMg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "devops",
+    "lectures"
+   ],
+   "about": "MIT's course on the shell, Git, Vim, debugging and other tools nobody teaches.",
+   "thumb": "Z56Jmr9Z34Q"
+  },
+  {
+   "id": "v-RGOj5yH7evk",
+   "type": "video",
+   "ytId": "RGOj5yH7evk",
+   "title": "Git and GitHub for Beginners – Crash Course",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:08:30",
+   "lang": "en",
+   "topics": [
+    "devops"
+   ],
+   "about": "Everything you need to start with Git.",
+   "thumb": "RGOj5yH7evk"
+  },
+  {
+   "id": "v-3c-iBn73dDE",
+   "type": "video",
+   "ytId": "3c-iBn73dDE",
+   "title": "Docker Tutorial for Beginners",
+   "channel": "TechWorld with Nana",
+   "handle": "TechWorldwithNana",
+   "avatar": "https://yt3.googleusercontent.com/ZAuMKdMcyV3mhX857oCGWzQAQ4AqZhiDIO76MTC_DqckrujSNg5Mh2AQh6ngWYv7bzfu7TBoj24=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:46:15",
+   "lang": "en",
+   "topics": [
+    "devops"
+   ],
+   "about": "Containers explained with clear diagrams.",
+   "thumb": "3c-iBn73dDE"
+  },
+  {
+   "id": "v-X48VuDVv0do",
+   "type": "video",
+   "ytId": "X48VuDVv0do",
+   "title": "Kubernetes Tutorial for Beginners",
+   "channel": "TechWorld with Nana",
+   "handle": "TechWorldwithNana",
+   "avatar": "https://yt3.googleusercontent.com/ZAuMKdMcyV3mhX857oCGWzQAQ4AqZhiDIO76MTC_DqckrujSNg5Mh2AQh6ngWYv7bzfu7TBoj24=s88-c-k-c0x00ffffff-no-rj",
+   "length": "3:36:55",
+   "lang": "en",
+   "topics": [
+    "devops"
+   ],
+   "about": "The clearest Kubernetes introduction.",
+   "thumb": "X48VuDVv0do"
+  },
+  {
+   "id": "v-Gjnup-PuquQ",
+   "type": "video",
+   "ytId": "Gjnup-PuquQ",
+   "title": "Docker in 100 Seconds",
+   "channel": "Fireship",
+   "handle": "Fireship",
+   "avatar": "https://yt3.googleusercontent.com/3fPNbkf_xPyCleq77ZhcxyeorY97NtMHVNUbaAON_RBDH9ydL4hJkjxC8x_4mpuopkB8oI7Ct6Y=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:07",
+   "lang": "en",
+   "topics": [
+    "devops"
+   ],
+   "about": "A quick primer.",
+   "thumb": "Gjnup-PuquQ"
+  },
+  {
+   "id": "p-PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa",
+   "type": "playlist",
+   "ytId": "PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa",
+   "title": "DevOps Zero to Hero",
+   "channel": "Abhishek.Veeramalla",
+   "handle": "AbhishekVeeramalla",
+   "avatar": "https://yt3.googleusercontent.com/_UK6vFjonYOZkXn6txUMrr4f_E1vBFzcbXVQENAvFrUtaTalpah6NdESZnT0L9w0DlKi0O_DCw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "devops"
+   ],
+   "about": "A free DevOps course: Linux, CI/CD, Docker, Kubernetes, cloud.",
+   "thumb": "Ou9j73aWgyE"
+  },
+  {
+   "id": "p-PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak",
+   "type": "playlist",
+   "ytId": "PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak",
+   "title": "DevOps Bootcamp",
+   "channel": "Kunal Kushwaha",
+   "handle": "KunalKushwaha",
+   "avatar": "https://yt3.googleusercontent.com/O8WpyZ5fkSpxQJDMA1N1WZeUp4foB4LTDeaQrRlZX_Ue4GTyMnz2J2yi4kXR4BNpGI55uzEs=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "devops"
+   ],
+   "about": "Open-source and DevOps fundamentals.",
+   "thumb": "ZbG0c87wcM8"
+  },
+  {
+   "id": "v-zzFSaPd2wdk",
+   "type": "video",
+   "ytId": "zzFSaPd2wdk",
+   "title": "Linux Full Course in Telugu",
+   "channel": "KhushalShambu",
+   "handle": "KhushalShambu",
+   "avatar": "https://yt3.googleusercontent.com/ksaP6hfyoQydqsINuBQHg4079C33btk61uyGxS6DSbhNHgOUhnl6CSPHreQWQIWk1ajLXHSTig=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:54:18",
+   "lang": "te",
+   "topics": [
+    "devops"
+   ],
+   "about": "Linux from zero in Telugu.",
+   "thumb": "zzFSaPd2wdk"
+  },
+  {
+   "id": "v-kCc8FmEb1nY",
+   "type": "video",
+   "ytId": "kCc8FmEb1nY",
+   "title": "Let's Build GPT: From Scratch, in Code",
+   "channel": "Andrej Karpathy",
+   "handle": "AndrejKarpathy",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:56:20",
+   "lang": "en",
+   "topics": [
+    "projects",
+    "genai"
+   ],
+   "about": "Builds a small GPT line by line. The best way to understand transformers.",
+   "thumb": "kCc8FmEb1nY"
+  },
+  {
+   "id": "v-l8pRSuU81PU",
+   "type": "video",
+   "ytId": "l8pRSuU81PU",
+   "title": "Let's Reproduce GPT-2 (124M)",
+   "channel": "Andrej Karpathy",
+   "handle": "AndrejKarpathy",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "4:01:26",
+   "lang": "en",
+   "topics": [
+    "projects",
+    "genai"
+   ],
+   "about": "Trains GPT-2 from an empty file.",
+   "thumb": "l8pRSuU81PU"
+  },
+  {
+   "id": "p-PLsdq-3Z1EPT0eElcdOON9fdaeaQjlyXDt",
+   "type": "playlist",
+   "ytId": "PLsdq-3Z1EPT0eElcdOON9fdaeaQjlyXDt",
+   "title": "Build Redis from Scratch",
+   "channel": "Arpit Bhayani",
+   "handle": "AsliEngineering",
+   "avatar": "https://yt3.googleusercontent.com/abhyrAwt7ikXKLWA_Vhy_k0JxwVFWL1yv8N9zWwaCL9pgfMMH0B1W-1TVxNVnEGGU_52Ndtf=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "projects",
+    "sysdesign"
+   ],
+   "about": "Rebuilds Redis internals step by step. A strong resume project.",
+   "thumb": "h30k7YixrMo"
+  },
+  {
+   "id": "p-PLowKtXNTBypGqImE405J2565dvjafglHU",
+   "type": "playlist",
+   "ytId": "PLowKtXNTBypGqImE405J2565dvjafglHU",
+   "title": "Building an 8-bit Breadboard Computer",
+   "channel": "Ben Eater",
+   "handle": "BenEater",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kzQ9Fabth3QHyk1YLRHA62goVPgxJdd68G0CPIs0tU3A=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "projects",
+    "csfund"
+   ],
+   "about": "Builds a CPU from logic chips. How computers work, physically.",
+   "thumb": "HyznrdDSSGM"
+  },
+  {
+   "id": "v-Qz0KTGYJtUk",
+   "type": "video",
+   "ytId": "Qz0KTGYJtUk",
+   "title": "Coding Adventure: Ray Tracing",
+   "channel": "Sebastian Lague",
+   "handle": "SebastianLague",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_knyJw3jL_6AGomJmGe3VvfIYxWzZC9Y8z90Liru4G0UHM=s88-c-k-c0x00ffffff-no-rj",
+   "length": "37:57",
+   "lang": "en",
+   "topics": [
+    "projects"
+   ],
+   "about": "Builds a ray tracer with beautiful visual explanations.",
+   "thumb": "Qz0KTGYJtUk"
+  },
+  {
+   "id": "v-w8yWXqWQYmU",
+   "type": "video",
+   "ytId": "w8yWXqWQYmU",
+   "title": "Building a Neural Network from Scratch (just NumPy and math)",
+   "channel": "Samson Zhang",
+   "handle": "SamsonZhangTheSalmon",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kCYozvhRNQjmOKLRdjB3WF6_XSLkSTkVx_jn9ae4kvS7gR=s88-c-k-c0x00ffffff-no-rj",
+   "length": "31:28",
+   "lang": "en",
+   "topics": [
+    "projects",
+    "ml"
+   ],
+   "about": "No frameworks. Every line of a neural network explained.",
+   "thumb": "w8yWXqWQYmU"
+  },
+  {
+   "id": "p-PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+   "type": "playlist",
+   "ytId": "PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+   "title": "Striver's A2Z DSA Course",
+   "channel": "take U forward",
+   "handle": "takeUforward",
+   "avatar": "https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "The full A2Z sheet on video, from basics to DP and graphs.",
+   "thumb": "0bHoB32fuj0"
+  },
+  {
+   "id": "p-PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9",
+   "type": "playlist",
+   "ytId": "PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9",
+   "title": "Striver's Recursion and Backtracking Series",
+   "channel": "take U forward",
+   "handle": "takeUforward",
+   "avatar": "https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "Recursion trees and backtracking patterns, step by step.",
+   "thumb": "yVdKa8dnKiE"
+  },
+  {
+   "id": "p-PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk",
+   "type": "playlist",
+   "ytId": "PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk",
+   "title": "Striver's Binary Trees and BST Series",
+   "channel": "take U forward",
+   "handle": "takeUforward",
+   "avatar": "https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "Every tree interview pattern in one series.",
+   "thumb": "OYqYEM1bMK8"
+  },
+  {
+   "id": "p-PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn",
+   "type": "playlist",
+   "ytId": "PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn",
+   "title": "Striver's Graph Series",
+   "channel": "take U forward",
+   "handle": "takeUforward",
+   "avatar": "https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "BFS, DFS, topo sort, shortest paths, MST, DSU.",
+   "thumb": "M3_pLsDdeuU"
+  },
+  {
+   "id": "p-PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY",
+   "type": "playlist",
+   "ytId": "PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY",
+   "title": "Striver's Dynamic Programming Series",
+   "channel": "take U forward",
+   "handle": "takeUforward",
+   "avatar": "https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "DP from recursion to memoization to tabulation.",
+   "thumb": "tyB0ztf0DNY"
+  },
+  {
+   "id": "p-PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+   "type": "playlist",
+   "ytId": "PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+   "title": "Algorithms",
+   "channel": "Abdul Bari",
+   "handle": "abdul_bari",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mp0uj33BBfZ18_r1ZZxHHXMrfCvrVUzMmhe8tj7BAqlQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "The best whiteboard explanations of classic algorithms and their analysis.",
+   "thumb": "0IAPZzGSbME"
+  },
+  {
+   "id": "p-PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P",
+   "type": "playlist",
+   "ytId": "PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P",
+   "title": "Graph Theory Playlist",
+   "channel": "WilliamFiset",
+   "handle": "WilliamFiset-videos",
+   "avatar": "https://yt3.googleusercontent.com/il-ku5OSiYfNwmek32rA1yClxJHWaUP7RtsuyL1CXrp9MDghdh2Mk-NqVGWz85FjuAn6CVKTEes=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "Animated, precise graph algorithms with code.",
+   "thumb": "DgXR2OWQnLc"
+  },
+  {
+   "id": "v-RBSGKlAvoiM",
+   "type": "video",
+   "ytId": "RBSGKlAvoiM",
+   "title": "Data Structures Easy to Advanced",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "8:03:17",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "William Fiset's full data structures course.",
+   "thumb": "RBSGKlAvoiM"
+  },
+  {
+   "id": "v-8hly31xKli0",
+   "type": "video",
+   "ytId": "8hly31xKli0",
+   "title": "Algorithms and Data Structures – Full Course for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "5:22:08",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "A gentle start: Big-O, searching, sorting, linked lists.",
+   "thumb": "8hly31xKli0"
+  },
+  {
+   "id": "v-oBt53YbR9Kk",
+   "type": "video",
+   "ytId": "oBt53YbR9Kk",
+   "title": "Dynamic Programming – Learn to Solve Algorithmic Problems",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "5:10:02",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "Alvin's memoization and tabulation course. DP finally makes sense.",
+   "thumb": "oBt53YbR9Kk"
+  },
+  {
+   "id": "v-09_LlHjoEiY",
+   "type": "video",
+   "ytId": "09_LlHjoEiY",
+   "title": "Graph Theory Algorithms Course",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "6:44:39",
+   "lang": "en",
+   "topics": [
+    "dsa"
+   ],
+   "about": "William Fiset's graph theory course in one video.",
+   "thumb": "09_LlHjoEiY"
+  },
+  {
+   "id": "p-PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf",
+   "type": "playlist",
+   "ytId": "PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf",
+   "title": "LeetCode Blind 75 Solutions",
+   "channel": "NeetCode",
+   "handle": "NeetCode",
+   "avatar": "https://yt3.googleusercontent.com/25g11wkEmSb_ZTC6M5-uMklwAHmFa9rfZN7TzS9WLsfPgXFHoLaegwKwBqqah7pPhQhSafMx=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa",
+    "interview"
+   ],
+   "about": "Short, clear solutions to the 75 most common interview problems.",
+   "thumb": "KLlXCFG5TnA"
+  },
+  {
+   "id": "p-PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+   "type": "playlist",
+   "ytId": "PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+   "title": "MIT 6.006 Introduction to Algorithms (Fall 2011)",
+   "channel": "MIT OpenCourseWare",
+   "handle": "mitocw",
+   "avatar": "https://yt3.googleusercontent.com/swNtJDBP8xHP_zwrbL4tCUQt02B-7Mr8XggFMBjANHn_Q5aUtPmxPs8f8Ag3wO2O-rJpsQQGpA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa",
+    "lectures"
+   ],
+   "about": "Erik Demaine and Srini Devadas. The classic algorithms course.",
+   "thumb": "moPtwq_cVH8"
+  },
+  {
+   "id": "p-PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY",
+   "type": "playlist",
+   "ytId": "PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY",
+   "title": "MIT 6.006 Introduction to Algorithms (Spring 2020)",
+   "channel": "MIT OpenCourseWare",
+   "handle": "mitocw",
+   "avatar": "https://yt3.googleusercontent.com/swNtJDBP8xHP_zwrbL4tCUQt02B-7Mr8XggFMBjANHn_Q5aUtPmxPs8f8Ag3wO2O-rJpsQQGpA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa",
+    "lectures"
+   ],
+   "about": "The newer edition of MIT's algorithms course.",
+   "thumb": "ZA-tUyM_y7s"
+  },
+  {
+   "id": "p-PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go",
+   "type": "playlist",
+   "ytId": "PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go",
+   "title": "Dynamic Programming Playlist",
+   "channel": "Aditya Verma",
+   "handle": "TheAdityaVerma",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nrzvYahQwNjXNdUZikikcgbX5Oljc9S29w34xoOh-gnkk=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "dsa"
+   ],
+   "about": "The famous Hindi DP series: identify the parent problem, then the pattern.",
+   "thumb": "nqowUJzG-iM"
+  },
+  {
+   "id": "p-PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY",
+   "type": "playlist",
+   "ytId": "PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY",
+   "title": "Recursion Playlist",
+   "channel": "Aditya Verma",
+   "handle": "TheAdityaVerma",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nrzvYahQwNjXNdUZikikcgbX5Oljc9S29w34xoOh-gnkk=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "dsa"
+   ],
+   "about": "Recursion through input-output trees, in Hindi.",
+   "thumb": "kHi1DUhp9kM"
+  },
+  {
+   "id": "p-PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2",
+   "type": "playlist",
+   "ytId": "PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2",
+   "title": "Binary Search",
+   "channel": "Aditya Verma",
+   "handle": "TheAdityaVerma",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nrzvYahQwNjXNdUZikikcgbX5Oljc9S29w34xoOh-gnkk=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "dsa"
+   ],
+   "about": "Every binary search variant asked in interviews.",
+   "thumb": "j7NodO9HIbk"
+  },
+  {
+   "id": "p-PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj",
+   "type": "playlist",
+   "ytId": "PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj",
+   "title": "Sliding Window",
+   "channel": "Aditya Verma",
+   "handle": "TheAdityaVerma",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nrzvYahQwNjXNdUZikikcgbX5Oljc9S29w34xoOh-gnkk=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "dsa"
+   ],
+   "about": "Fixed and variable window patterns, in Hindi.",
+   "thumb": "EHCGAZBbB88"
+  },
+  {
+   "id": "p-PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
+   "type": "playlist",
+   "ytId": "PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
+   "title": "Complete C++ Placement DSA Course",
+   "channel": "CodeHelp - by Babbar",
+   "handle": "CodeHelp",
+   "avatar": "https://yt3.googleusercontent.com/st0tjHROqHEs6scfJ0ZVyMPP1_bh18WJ7l4zAjR4yRf-9sX-eFz2heChzXkiF2TL2tyo2fj_mg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "dsa",
+    "cpp"
+   ],
+   "about": "Love Babbar's full placement DSA course in Hindi.",
+   "thumb": "WQoB2z67hvY"
+  },
+  {
+   "id": "p-PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt",
+   "type": "playlist",
+   "ytId": "PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt",
+   "title": "Complete C++ DSA Course",
+   "channel": "Apna College",
+   "handle": "ApnaCollegeOfficial",
+   "avatar": "https://yt3.googleusercontent.com/FEcjRtez5od8UowDo6tTt9WlE-MrIFEmcwPMTORmK9Swk6KCklOmA3xfIG9WuLWfNYfNThQE=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "dsa",
+    "cpp"
+   ],
+   "about": "Shradha Khapra's structured C++ DSA course.",
+   "thumb": "VTLCoHnyACE"
+  },
+  {
+   "id": "p-PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU",
+   "type": "playlist",
+   "ytId": "PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU",
+   "title": "Data Structures and Algorithms",
+   "channel": "Jenny's Lectures CS IT",
+   "handle": "JennyslecturesCSIT",
+   "avatar": "https://yt3.googleusercontent.com/G_0IAqOglBkQz1-AFWsxxiRrT7DjPfrQksCMs-I82D6wCOrG1PCa9LjntW9zW5TodRLccBr6ew=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "dsa",
+    "csfund"
+   ],
+   "about": "Classroom-style explanations, good for semester exams too.",
+   "thumb": "AT14lCXuMKI"
+  },
+  {
+   "id": "v-25z0Gtz7PUg",
+   "type": "video",
+   "ytId": "25z0Gtz7PUg",
+   "title": "DSA with Python in Telugu (12 hours)",
+   "channel": "PythonLife",
+   "handle": "PythonLifetelugu",
+   "avatar": "https://yt3.googleusercontent.com/2_QQQR7u5kW8yaXlBimqlStm36l1bZ-JNsmfuQrphLWbIo482PvAMAQ0Z-aTOazpI91iBwSAMBk=s88-c-k-c0x00ffffff-no-rj",
+   "length": "11:00:12",
+   "lang": "te",
+   "topics": [
+    "dsa",
+    "python"
+   ],
+   "about": "Data structures and algorithms in Python, in Telugu.",
+   "thumb": "25z0Gtz7PUg"
+  },
+  {
+   "id": "p-PLKVL6sFNdvVt18fNz0M3j5Ql0gqvN7bBg",
+   "type": "playlist",
+   "ytId": "PLKVL6sFNdvVt18fNz0M3j5Ql0gqvN7bBg",
+   "title": "Complete DSA Course in Telugu (Java, Python, C++)",
+   "channel": "Bharath Reddy",
+   "handle": "repatiKosaam",
+   "avatar": "https://yt3.googleusercontent.com/78Nf_tiTKk4WhiJLEf5ILQM6jFEvbsZoYuuKy0a_yuNl9owPIFMzOxlE9XBJZ3VRbeznquhrgQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "te",
+   "topics": [
+    "dsa"
+   ],
+   "about": "A daily Telugu DSA series in three languages.",
+   "thumb": "Sx2DTekE0dI"
+  },
+  {
+   "id": "v-wjFgd8JJ8NM",
+   "type": "video",
+   "ytId": "wjFgd8JJ8NM",
+   "title": "DSA Complete Roadmap 2026 (Telugu)",
+   "channel": "Swaroop Talks",
+   "handle": "SwaroopVITB",
+   "avatar": "https://yt3.googleusercontent.com/vHwkfKXT76Yp_aqJ21wBMqX2094mWUbXgUK48vT4qvKkxnEy_OWkYuROwrBqKBmEd8RN2GkK=s88-c-k-c0x00ffffff-no-rj",
+   "length": "13:19",
+   "lang": "te",
+   "topics": [
+    "dsa",
+    "interview"
+   ],
+   "about": "A step-by-step DSA plan for placements, in Telugu.",
+   "thumb": "wjFgd8JJ8NM"
+  },
+  {
+   "id": "v-F2FmTdLtb_4",
+   "type": "video",
+   "ytId": "F2FmTdLtb_4",
+   "title": "System Design Concepts Course and Interview Prep",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "53:38",
+   "lang": "en",
+   "topics": [
+    "sysdesign"
+   ],
+   "about": "Caching, load balancing, databases and CAP in under an hour.",
+   "thumb": "F2FmTdLtb_4"
+  },
+  {
+   "id": "p-PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
+   "type": "playlist",
+   "ytId": "PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX",
+   "title": "System Design Playlist",
+   "channel": "Gaurav Sen",
+   "handle": "gkcs",
+   "avatar": "https://yt3.googleusercontent.com/092CjcwduEsozsuvO-hcfwRA_uwytUAAAdXr6mZrFJH2xrI8hzBgvlMr9iQgL1SDf2UABnt4GA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "sysdesign"
+   ],
+   "about": "The series that made system design approachable for students.",
+   "thumb": "SqcXvc3ZmRU"
+  },
+  {
+   "id": "v-i7twT3x5yv8",
+   "type": "video",
+   "ytId": "i7twT3x5yv8",
+   "title": "System Design Interview: A Step-by-Step Guide",
+   "channel": "ByteByteGo",
+   "handle": "ByteByteGo",
+   "avatar": "https://yt3.googleusercontent.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s88-c-k-c0x00ffffff-no-rj",
+   "length": "9:53",
+   "lang": "en",
+   "topics": [
+    "sysdesign",
+    "interview"
+   ],
+   "about": "Alex Xu's framework for any system design interview.",
+   "thumb": "i7twT3x5yv8"
+  },
+  {
+   "id": "p-PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ",
+   "type": "playlist",
+   "ytId": "PLjTveVh7FakLdTmm42TMxbN8PvVn5g4KJ",
+   "title": "Systems Design 2.0",
+   "channel": "Jordan has no life",
+   "handle": "jordanhasnolife5163",
+   "avatar": "https://yt3.googleusercontent.com/ejJQmvomXKfaaf4hJZRwMFllOxFXY6C7JVM2eHjRQdwf6TcMwO7TQyUiJGtIr80xIH_ZfZOd=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "sysdesign"
+   ],
+   "about": "Deep, fast-paced coverage of distributed systems concepts.",
+   "thumb": "bwt09KXDH94"
+  },
+  {
+   "id": "p-PLsdq-3Z1EPT27BuTnJ_trF7BsaTpYLqst",
+   "type": "playlist",
+   "ytId": "PLsdq-3Z1EPT27BuTnJ_trF7BsaTpYLqst",
+   "title": "System Design",
+   "channel": "Arpit Bhayani",
+   "handle": "AsliEngineering",
+   "avatar": "https://yt3.googleusercontent.com/abhyrAwt7ikXKLWA_Vhy_k0JxwVFWL1yv8N9zWwaCL9pgfMMH0B1W-1TVxNVnEGGU_52Ndtf=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "sysdesign"
+   ],
+   "about": "How real systems are built, from an engineer who builds them.",
+   "thumb": "iRhDCIzhm4A"
+  },
+  {
+   "id": "p-PL6W8uoQQ2c611H_IeIcNGnUATVcd2FOav",
+   "type": "playlist",
+   "ytId": "PL6W8uoQQ2c611H_IeIcNGnUATVcd2FOav",
+   "title": "Low Level Design (English dub)",
+   "channel": "Concept && Coding - by Shrayansh",
+   "handle": "ConceptAndCodingByShrayansh",
+   "avatar": "https://yt3.googleusercontent.com/_zR6Uvi5wi2Jr98R9pj_YHcIAAXml9uX6PPRVa-5Er4EawidofoMQjvwLtft4kRXxoxNhfTCqQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "sysdesign",
+    "java"
+   ],
+   "about": "Design patterns and LLD interview problems in Java.",
+   "thumb": "AfXamPmQfuc"
+  },
+  {
+   "id": "p-PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
+   "type": "playlist",
+   "ytId": "PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB",
+   "title": "Distributed Systems (Cambridge lectures)",
+   "channel": "Martin Kleppmann",
+   "handle": "kleppmann",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mtXG2-doORjD1y1EuZzfFkpIIWw-ID0CEW9jiuZEiWwg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "sysdesign",
+    "lectures"
+   ],
+   "about": "By the author of Designing Data-Intensive Applications.",
+   "thumb": "UEAMfLPZZhE"
+  },
+  {
+   "id": "p-PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
+   "type": "playlist",
+   "ytId": "PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
+   "title": "MIT 6.824 Distributed Systems (Spring 2020)",
+   "channel": "MIT 6.824: Distributed Systems",
+   "handle": "6.824",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_luD7LxHru96G4n5dxU0xbi4BWcW-djeGOCWQmKUDo=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "sysdesign",
+    "lectures"
+   ],
+   "about": "Robert Morris on MapReduce, Raft, replication and consistency.",
+   "thumb": "cQP8WApzIQQ"
+  },
+  {
+   "id": "v-5ZjhNTM8XU8",
+   "type": "video",
+   "ytId": "5ZjhNTM8XU8",
+   "title": "Transactions: Myths, Surprises and Opportunities",
+   "channel": "Strange Loop Conference",
+   "handle": "StrangeLoopConf",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mSLDc_P8A4YJP-k3Ulkbw2HhrGyyv3YDRZqn1EJHyxvg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "41:08",
+   "lang": "en",
+   "topics": [
+    "sysdesign",
+    "sql",
+    "talks"
+   ],
+   "about": "Martin Kleppmann on what ACID really guarantees.",
+   "thumb": "5ZjhNTM8XU8"
+  },
+  {
+   "id": "v-SxdOUGdseq4",
+   "type": "video",
+   "ytId": "SxdOUGdseq4",
+   "title": "Simple Made Easy",
+   "channel": "Strange Loop Conference",
+   "handle": "StrangeLoopConf",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mSLDc_P8A4YJP-k3Ulkbw2HhrGyyv3YDRZqn1EJHyxvg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:01:38",
+   "lang": "en",
+   "topics": [
+    "sysdesign",
+    "talks"
+   ],
+   "about": "Rich Hickey's classic talk on simplicity in software design.",
+   "thumb": "SxdOUGdseq4"
+  },
+  {
+   "id": "v-AK0hu0Zxua4",
+   "type": "video",
+   "ytId": "AK0hu0Zxua4",
+   "title": "Introduction to System Design",
+   "channel": "Coder Army",
+   "handle": "CoderArmy9",
+   "avatar": "https://yt3.googleusercontent.com/L5V_uwm8Dg7o40NU9gQ_c-r3TC6dkMxVil0fBG_N_wYnnSaHZc1dVYNlRNUy4U1gd5ViZR9V=s88-c-k-c0x00ffffff-no-rj",
+   "length": "24:46",
+   "lang": "hi",
+   "topics": [
+    "sysdesign"
+   ],
+   "about": "A clear Hindi introduction to system design.",
+   "thumb": "AK0hu0Zxua4"
+  },
+  {
+   "id": "v-W8kg8h-uIC8",
+   "type": "video",
+   "ytId": "W8kg8h-uIC8",
+   "title": "System Design Full Course (High Level Design)",
+   "channel": "Rohit Negi",
+   "handle": "Rohit_Negi",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kMl44oPi4fNs0L0DhQxsXWFhMWym0bfH3tagBnNeBkNyc=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:24:19",
+   "lang": "hi",
+   "topics": [
+    "sysdesign"
+   ],
+   "about": "HLD concepts in Hindi in one sitting.",
+   "thumb": "W8kg8h-uIC8"
+  },
+  {
+   "id": "v-JUp864DLvss",
+   "type": "video",
+   "ytId": "JUp864DLvss",
+   "title": "System Design Roadmap A–Z (Telugu)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "10:00",
+   "lang": "te",
+   "topics": [
+    "sysdesign"
+   ],
+   "about": "What to learn for system design, in Telugu.",
+   "thumb": "JUp864DLvss"
+  },
+  {
+   "id": "p-PL9vTTBa7QaQPdvEuMTqS9McY-ieaweU8M",
+   "type": "playlist",
+   "ytId": "PL9vTTBa7QaQPdvEuMTqS9McY-ieaweU8M",
+   "title": "Operating Systems Theory",
+   "channel": "Core Dumped",
+   "handle": "CoreDumpped",
+   "avatar": "https://yt3.googleusercontent.com/jfFx60eD6-93bOmWb20Ia6ehdTyiObRpSIzyK1S981LD78uGh8-jbENVajIYOPQCTDMiFfWjzg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "csfund"
+   ],
+   "about": "Beautifully animated OS concepts: processes, scheduling, memory.",
+   "thumb": "7ge7u5VUSbE"
+  },
+  {
+   "id": "v-O2tV9q6784k",
+   "type": "video",
+   "ytId": "O2tV9q6784k",
+   "title": "The Algorithms That Make Your Computer Feel Smoother",
+   "channel": "Core Dumped",
+   "handle": "CoreDumpped",
+   "avatar": "https://yt3.googleusercontent.com/jfFx60eD6-93bOmWb20Ia6ehdTyiObRpSIzyK1S981LD78uGh8-jbENVajIYOPQCTDMiFfWjzg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "45:02",
+   "lang": "en",
+   "topics": [
+    "csfund"
+   ],
+   "about": "CPU scheduling explained visually.",
+   "thumb": "O2tV9q6784k"
+  },
+  {
+   "id": "p-PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
+   "type": "playlist",
+   "ytId": "PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p",
+   "title": "Operating System (Complete Playlist)",
+   "channel": "Gate Smashers",
+   "handle": "GateSmashers",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mZfqpNqtGLksLQfMbW7UVFgub_poGNE-YU_RAoV_NdUII=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "csfund"
+   ],
+   "about": "The go-to OS series for exams and interviews, in Hindi.",
+   "thumb": "bkSWJJZNgf8"
+  },
+  {
+   "id": "p-PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y",
+   "type": "playlist",
+   "ytId": "PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y",
+   "title": "DBMS (Complete Playlist)",
+   "channel": "Gate Smashers",
+   "handle": "GateSmashers",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mZfqpNqtGLksLQfMbW7UVFgub_poGNE-YU_RAoV_NdUII=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "csfund",
+    "sql"
+   ],
+   "about": "Normalization, transactions, indexing, SQL, in Hindi.",
+   "thumb": "kBdlM6hNDAE"
+  },
+  {
+   "id": "p-PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+   "type": "playlist",
+   "ytId": "PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_",
+   "title": "Computer Networks (Complete Playlist)",
+   "channel": "Gate Smashers",
+   "handle": "GateSmashers",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mZfqpNqtGLksLQfMbW7UVFgub_poGNE-YU_RAoV_NdUII=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "csfund"
+   ],
+   "about": "OSI, TCP/IP, routing, in Hindi.",
+   "thumb": "JFF2vJaN0Cw"
+  },
+  {
+   "id": "p-PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O",
+   "type": "playlist",
+   "ytId": "PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O",
+   "title": "Operating System",
+   "channel": "Neso Academy",
+   "handle": "nesoacademy",
+   "avatar": "https://yt3.googleusercontent.com/1iRrlRhV7RMLlyeLSeYaHjtvql01jATABgZtWeX3GyFcJJNNYp3ICYPgdyUOE6U4Y4PLXee594Q=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "csfund"
+   ],
+   "about": "Methodical OS lectures in English.",
+   "thumb": "vBURTt97EkA"
+  },
+  {
+   "id": "p-PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx",
+   "type": "playlist",
+   "ytId": "PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx",
+   "title": "Computer Networks",
+   "channel": "Neso Academy",
+   "handle": "nesoacademy",
+   "avatar": "https://yt3.googleusercontent.com/1iRrlRhV7RMLlyeLSeYaHjtvql01jATABgZtWeX3GyFcJJNNYp3ICYPgdyUOE6U4Y4PLXee594Q=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "csfund"
+   ],
+   "about": "Methodical networking lectures in English.",
+   "thumb": "VwN91x5i25g"
+  },
+  {
+   "id": "v-yK1uBHPdp30",
+   "type": "video",
+   "ytId": "yK1uBHPdp30",
+   "title": "Operating Systems Course for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "24:51:56",
+   "lang": "en",
+   "topics": [
+    "csfund"
+   ],
+   "about": "A full university-level OS course in one video.",
+   "thumb": "yK1uBHPdp30"
+  },
+  {
+   "id": "p-PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
+   "type": "playlist",
+   "ytId": "PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
+   "title": "Crash Course Computer Science",
+   "channel": "CrashCourse",
+   "handle": "crashcourse",
+   "avatar": "https://yt3.googleusercontent.com/E454zI2spNFZsN_wgJPTHjMsqs1fFqb_qp4PYanWuyaXQJp98wKEV1kIQYlR57epaweO5P8v=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "csfund"
+   ],
+   "about": "How computers work, from transistors to the internet, in short episodes.",
+   "thumb": "tpIctyqH29Q"
+  },
+  {
+   "id": "v-2aHkqB2-46k",
+   "type": "video",
+   "ytId": "2aHkqB2-46k",
+   "title": "Introduction to Cryptography – Lecture 1",
+   "channel": "Introduction to Cryptography by Christof Paar",
+   "handle": "introductiontocryptography4223",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_l2D1B97xf0B9C7XEwOCxtfuePcilZqnQmJQj9AHacbRQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:17:24",
+   "lang": "en",
+   "topics": [
+    "csfund",
+    "lectures"
+   ],
+   "about": "Christof Paar's legendary crypto course starts here.",
+   "thumb": "2aHkqB2-46k"
+  },
+  {
+   "id": "p-PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+   "type": "playlist",
+   "ytId": "PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab",
+   "title": "Essence of Linear Algebra",
+   "channel": "3Blue1Brown",
+   "handle": "3blue1brown",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "csfund",
+    "ml"
+   ],
+   "about": "Linear algebra you can see. Essential before ML.",
+   "thumb": "fNk_zzaMoSs"
+  },
+  {
+   "id": "p-PLE7DDD91010BC51F8",
+   "type": "playlist",
+   "ytId": "PLE7DDD91010BC51F8",
+   "title": "MIT 18.06 Linear Algebra",
+   "channel": "MIT OpenCourseWare",
+   "handle": "mitocw",
+   "avatar": "https://yt3.googleusercontent.com/swNtJDBP8xHP_zwrbL4tCUQt02B-7Mr8XggFMBjANHn_Q5aUtPmxPs8f8Ag3wO2O-rJpsQQGpA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "csfund",
+    "lectures"
+   ],
+   "about": "Gilbert Strang's famous lectures.",
+   "thumb": "ZK3O402wf1c"
+  },
+  {
+   "id": "p-PLB7540DEDD482705B",
+   "type": "playlist",
+   "ytId": "PLB7540DEDD482705B",
+   "title": "MIT 6.042J Mathematics for Computer Science",
+   "channel": "MIT OpenCourseWare",
+   "handle": "mitocw",
+   "avatar": "https://yt3.googleusercontent.com/swNtJDBP8xHP_zwrbL4tCUQt02B-7Mr8XggFMBjANHn_Q5aUtPmxPs8f8Ag3wO2O-rJpsQQGpA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "csfund",
+    "lectures"
+   ],
+   "about": "Proofs, graphs, counting and probability for CS.",
+   "thumb": "L3LMbpZIKhQ"
+  },
+  {
+   "id": "p-PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo",
+   "type": "playlist",
+   "ytId": "PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo",
+   "title": "Statistics 110: Probability",
+   "channel": "Harvard University",
+   "handle": "harvard",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mDxwGcmWyN_4-5PHivuBqMkPzA-wyK9pEguA-Ut3nWf3Q=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "csfund",
+    "lectures",
+    "ml"
+   ],
+   "about": "Joe Blitzstein's probability course, much loved.",
+   "thumb": "KbB0FjPg0mw"
+  },
+  {
+   "id": "v-WpdKyLXa9SU",
+   "type": "video",
+   "ytId": "WpdKyLXa9SU",
+   "title": "Operating System for Placements (Telugu)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:19:46",
+   "lang": "te",
+   "topics": [
+    "csfund"
+   ],
+   "about": "OS concepts for interviews, in Telugu.",
+   "thumb": "WpdKyLXa9SU"
+  },
+  {
+   "id": "v-ty31jQe2ZLA",
+   "type": "video",
+   "ytId": "ty31jQe2ZLA",
+   "title": "Operating System Full Tutorial (Telugu)",
+   "channel": "PythonLife",
+   "handle": "PythonLifetelugu",
+   "avatar": "https://yt3.googleusercontent.com/2_QQQR7u5kW8yaXlBimqlStm36l1bZ-JNsmfuQrphLWbIo482PvAMAQ0Z-aTOazpI91iBwSAMBk=s88-c-k-c0x00ffffff-no-rj",
+   "length": "4:31:31",
+   "lang": "te",
+   "topics": [
+    "csfund"
+   ],
+   "about": "A complete Telugu OS course.",
+   "thumb": "ty31jQe2ZLA"
+  },
+  {
+   "id": "v-DbQLWpaWLKw",
+   "type": "video",
+   "ytId": "DbQLWpaWLKw",
+   "title": "DBMS in Telugu",
+   "channel": "PythonLife",
+   "handle": "PythonLifetelugu",
+   "avatar": "https://yt3.googleusercontent.com/2_QQQR7u5kW8yaXlBimqlStm36l1bZ-JNsmfuQrphLWbIo482PvAMAQ0Z-aTOazpI91iBwSAMBk=s88-c-k-c0x00ffffff-no-rj",
+   "length": "3:17:02",
+   "lang": "te",
+   "topics": [
+    "csfund",
+    "sql"
+   ],
+   "about": "Database management systems, in Telugu.",
+   "thumb": "DbQLWpaWLKw"
+  },
+  {
+   "id": "v-q1unQgP7uaQ",
+   "type": "video",
+   "ytId": "q1unQgP7uaQ",
+   "title": "DBMS Crash Course (Telugu)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:47:33",
+   "lang": "te",
+   "topics": [
+    "csfund",
+    "sql"
+   ],
+   "about": "A fast DBMS revision in Telugu.",
+   "thumb": "q1unQgP7uaQ"
+  },
+  {
+   "id": "v-nVgLiJOI2U8",
+   "type": "video",
+   "ytId": "nVgLiJOI2U8",
+   "title": "DBMS in Telugu (7 hours, with MySQL)",
+   "channel": "Believer 01",
+   "handle": "Believer01",
+   "avatar": "https://yt3.googleusercontent.com/zutgehCdeXyrghN0fHN3-bwK1Kc85vASfUrXv8aeZ7Xyj6cqk81kuC6mJUcHVJFWQQMb4B16tg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "7:11:46",
+   "lang": "te",
+   "topics": [
+    "csfund",
+    "sql"
+   ],
+   "about": "Long-form Telugu DBMS with MySQL practice.",
+   "thumb": "nVgLiJOI2U8"
+  },
+  {
+   "id": "p-PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X",
+   "type": "playlist",
+   "ytId": "PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X",
+   "title": "Stanford CS230: Deep Learning (Autumn 2025)",
+   "channel": "Stanford Online",
+   "handle": "stanfordonline",
+   "avatar": "https://yt3.googleusercontent.com/UE4m1O9zmzlEViC33IbGBU0idM-rbGzN1NWag8xMt6JHBG5SmuWmJdF1_uQhhGKLjLiUXvOTwA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "ml"
+   ],
+   "about": "Andrew Ng's current deep learning course.",
+   "thumb": "_NLHFoVNlbg"
+  },
+  {
+   "id": "p-PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI",
+   "type": "playlist",
+   "ytId": "PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI",
+   "title": "MIT 6.S191: Introduction to Deep Learning",
+   "channel": "Alexander Amini",
+   "handle": "AAmini",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_k517G0Dt8QgsF86GKzYkG3Rs8jSGCiYGJw04lx4_1KXQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "ml"
+   ],
+   "about": "MIT's fast, current deep learning bootcamp.",
+   "thumb": "II4giR4vOOo"
+  },
+  {
+   "id": "p-PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv",
+   "type": "playlist",
+   "ytId": "PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv",
+   "title": "Stanford CS231n: CNNs for Visual Recognition",
+   "channel": "Stanford University School of Engineering",
+   "handle": "stanfordengineering",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_n_ybKM9ATFjCc6IWXp_PyLcXVLZx99xvVdb1b1gAN2kjM=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "ml"
+   ],
+   "about": "The course that taught a generation deep learning.",
+   "thumb": "vT1JzLTH4G4"
+  },
+  {
+   "id": "p-PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi",
+   "type": "playlist",
+   "ytId": "PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi",
+   "title": "MIT 6.034 Artificial Intelligence",
+   "channel": "MIT OpenCourseWare",
+   "handle": "mitocw",
+   "avatar": "https://yt3.googleusercontent.com/swNtJDBP8xHP_zwrbL4tCUQt02B-7Mr8XggFMBjANHn_Q5aUtPmxPs8f8Ag3wO2O-rJpsQQGpA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "ml"
+   ],
+   "about": "Patrick Winston's classic AI lectures.",
+   "thumb": "ZZmzMJB-tow"
+  },
+  {
+   "id": "p-PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ",
+   "type": "playlist",
+   "ytId": "PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ",
+   "title": "Introduction to Reinforcement Learning (David Silver)",
+   "channel": "Google DeepMind",
+   "handle": "googledeepmind",
+   "avatar": "https://yt3.googleusercontent.com/xofhdRNoyqgAB_YpJgAQeasGtE6gTEXpR2v1vyMmtqlRCmoEUIsTGJcavUORLhhKQk3b9UeUFw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "ml"
+   ],
+   "about": "The standard RL course.",
+   "thumb": "2pWv7GOvuf0"
+  },
+  {
+   "id": "p-PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
+   "type": "playlist",
+   "ytId": "PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
+   "title": "Stanford CS224N: NLP with Deep Learning",
+   "channel": "Stanford Online",
+   "handle": "stanfordonline",
+   "avatar": "https://yt3.googleusercontent.com/UE4m1O9zmzlEViC33IbGBU0idM-rbGzN1NWag8xMt6JHBG5SmuWmJdF1_uQhhGKLjLiUXvOTwA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "genai"
+   ],
+   "about": "Chris Manning on word vectors to transformers.",
+   "thumb": "rmVRLeJRkl4"
+  },
+  {
+   "id": "p-PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM",
+   "type": "playlist",
+   "ytId": "PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM",
+   "title": "Stanford CS25: Transformers United",
+   "channel": "Stanford Online",
+   "handle": "stanfordonline",
+   "avatar": "https://yt3.googleusercontent.com/UE4m1O9zmzlEViC33IbGBU0idM-rbGzN1NWag8xMt6JHBG5SmuWmJdF1_uQhhGKLjLiUXvOTwA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "genai",
+    "papers"
+   ],
+   "about": "Researchers present the ideas behind modern transformers.",
+   "thumb": "P127jhj-8-Y"
+  },
+  {
+   "id": "p-PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_",
+   "type": "playlist",
+   "ytId": "PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_",
+   "title": "Stanford CS336: Language Modeling from Scratch (2025)",
+   "channel": "Stanford Online",
+   "handle": "stanfordonline",
+   "avatar": "https://yt3.googleusercontent.com/UE4m1O9zmzlEViC33IbGBU0idM-rbGzN1NWag8xMt6JHBG5SmuWmJdF1_uQhhGKLjLiUXvOTwA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "genai",
+    "projects"
+   ],
+   "about": "Build an LLM end to end: tokenizer, training, scaling, alignment.",
+   "thumb": "SQ3fZ1sAqXI"
+  },
+  {
+   "id": "p-PLS01nW3RtgopsNLeM936V4TNSsvvVglLc",
+   "type": "playlist",
+   "ytId": "PLS01nW3RtgopsNLeM936V4TNSsvvVglLc",
+   "title": "LLM Agents MOOC (Fall 2024)",
+   "channel": "Berkeley RDI",
+   "handle": "BerkeleyRDI",
+   "avatar": "https://yt3.googleusercontent.com/PdbtULJ73k0nM65wF3QVDhHgnVpgPSYtPCeEVl5K8VVqotMqUzQKSaRkuyLf-ruw_VaQPYGDww=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "agents"
+   ],
+   "about": "Berkeley's course on LLM agents, with guest lectures from top labs.",
+   "thumb": "QAgR4uQ15rc"
+  },
+  {
+   "id": "p-PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ",
+   "type": "playlist",
+   "ytId": "PLS01nW3RtgoqGkm4UeqNeZLccW-OGc1fJ",
+   "title": "Agentic AI MOOC (Fall 2025)",
+   "channel": "Berkeley RDI",
+   "handle": "BerkeleyRDI",
+   "avatar": "https://yt3.googleusercontent.com/PdbtULJ73k0nM65wF3QVDhHgnVpgPSYtPCeEVl5K8VVqotMqUzQKSaRkuyLf-ruw_VaQPYGDww=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "lectures",
+    "agents"
+   ],
+   "about": "The newest edition, focused on agentic systems.",
+   "thumb": "CvZDJxd4LKM"
+  },
+  {
+   "id": "p-PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+   "type": "playlist",
+   "ytId": "PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+   "title": "Neural Networks",
+   "channel": "3Blue1Brown",
+   "handle": "3blue1brown",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "ml",
+    "genai"
+   ],
+   "about": "The visual intuition for neural nets, backprop and transformers.",
+   "thumb": "aircAruvnKk"
+  },
+  {
+   "id": "p-PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+   "type": "playlist",
+   "ytId": "PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+   "title": "Neural Networks: Zero to Hero",
+   "channel": "Andrej Karpathy",
+   "handle": "AndrejKarpathy",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "ml",
+    "genai",
+    "projects"
+   ],
+   "about": "Code neural networks from scratch up to GPT.",
+   "thumb": "VMj-3S1tku0"
+  },
+  {
+   "id": "v-VMj-3S1tku0",
+   "type": "video",
+   "ytId": "VMj-3S1tku0",
+   "title": "Building micrograd: Intro to Neural Networks and Backprop",
+   "channel": "Andrej Karpathy",
+   "handle": "AndrejKarpathy",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:25:52",
+   "lang": "en",
+   "topics": [
+    "ml",
+    "projects"
+   ],
+   "about": "Backpropagation built by hand. The single best ML lecture on YouTube.",
+   "thumb": "VMj-3S1tku0"
+  },
+  {
+   "id": "p-PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+   "type": "playlist",
+   "ytId": "PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+   "title": "Machine Learning",
+   "channel": "StatQuest with Josh Starmer",
+   "handle": "statquest",
+   "avatar": "https://yt3.googleusercontent.com/Lzc9YzCKTkcA1My5A5pbsqaEtOoGc0ncWpCJiOQs2-0win3Tjf5XxmDFEYUiVM9jOTuhMjGs=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "ml"
+   ],
+   "about": "ML algorithms explained simply, one idea at a time.",
+   "thumb": "Gv9_4yMHFhI"
+  },
+  {
+   "id": "p-PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH",
+   "type": "playlist",
+   "ytId": "PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH",
+   "title": "100 Days of Machine Learning",
+   "channel": "CampusX",
+   "handle": "campusx-official",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lUgoevWNPCGZJowMs4p6mlt8HdQWdBWvKC47sfvAJ16FM=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "ml"
+   ],
+   "about": "The most complete Hindi ML course, end to end.",
+   "thumb": "ZftI2fEz0Fw"
+  },
+  {
+   "id": "p-PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn",
+   "type": "playlist",
+   "ytId": "PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn",
+   "title": "100 Days of Deep Learning",
+   "channel": "CampusX",
+   "handle": "campusx-official",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lUgoevWNPCGZJowMs4p6mlt8HdQWdBWvKC47sfvAJ16FM=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "ml"
+   ],
+   "about": "Deep learning in Hindi, from perceptrons to RNNs.",
+   "thumb": "2dH_qjc9mFg"
+  },
+  {
+   "id": "v-7jVKwYQdKww",
+   "type": "video",
+   "ytId": "7jVKwYQdKww",
+   "title": "Introduction to AI, ML and Deep Learning (Telugu)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "22:08",
+   "lang": "te",
+   "topics": [
+    "ml"
+   ],
+   "about": "The big picture of AI in Telugu.",
+   "thumb": "7jVKwYQdKww"
+  },
+  {
+   "id": "v-UZDiGooFs54",
+   "type": "video",
+   "ytId": "UZDiGooFs54",
+   "title": "The Moment We Stopped Understanding AI [AlexNet]",
+   "channel": "Welch Labs",
+   "handle": "WelchLabs",
+   "avatar": "https://yt3.googleusercontent.com/2iLVDebIe8qFdyAjY48p8XVZYmIA4umizNlZNmURd7q2OOWJLDBD5qQjlLZTUnkehcMIqEHfDw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "17:38",
+   "lang": "en",
+   "topics": [
+    "ml",
+    "papers"
+   ],
+   "about": "A visual story of AlexNet and what neural nets learn.",
+   "thumb": "UZDiGooFs54"
+  },
+  {
+   "id": "v-zjkBMFhNj_g",
+   "type": "video",
+   "ytId": "zjkBMFhNj_g",
+   "title": "Intro to Large Language Models",
+   "channel": "Andrej Karpathy",
+   "handle": "AndrejKarpathy",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "59:48",
+   "lang": "en",
+   "topics": [
+    "genai"
+   ],
+   "about": "One hour on what LLMs are and how they are trained.",
+   "thumb": "zjkBMFhNj_g"
+  },
+  {
+   "id": "v-7xTGNNLPyMI",
+   "type": "video",
+   "ytId": "7xTGNNLPyMI",
+   "title": "Deep Dive into LLMs like ChatGPT",
+   "channel": "Andrej Karpathy",
+   "handle": "AndrejKarpathy",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "3:31:23",
+   "lang": "en",
+   "topics": [
+    "genai"
+   ],
+   "about": "The full pipeline from pretraining to RLHF, for a general audience.",
+   "thumb": "7xTGNNLPyMI"
+  },
+  {
+   "id": "v-EWvNQjAaOHw",
+   "type": "video",
+   "ytId": "EWvNQjAaOHw",
+   "title": "How I Use LLMs",
+   "channel": "Andrej Karpathy",
+   "handle": "AndrejKarpathy",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:11:12",
+   "lang": "en",
+   "topics": [
+    "genai"
+   ],
+   "about": "Practical ways to use LLMs every day.",
+   "thumb": "EWvNQjAaOHw"
+  },
+  {
+   "id": "v-zduSFxRajkE",
+   "type": "video",
+   "ytId": "zduSFxRajkE",
+   "title": "Let's Build the GPT Tokenizer",
+   "channel": "Andrej Karpathy",
+   "handle": "AndrejKarpathy",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:13:34",
+   "lang": "en",
+   "topics": [
+    "genai",
+    "projects"
+   ],
+   "about": "Byte pair encoding built from scratch.",
+   "thumb": "zduSFxRajkE"
+  },
+  {
+   "id": "v-bZQun8Y4L2A",
+   "type": "video",
+   "ytId": "bZQun8Y4L2A",
+   "title": "State of GPT",
+   "channel": "Microsoft Developer",
+   "handle": "MicrosoftDeveloper",
+   "avatar": "https://yt3.googleusercontent.com/-cjUUxLvDnivNSS58Htc_stsEHTv34Qpz99UxbeNv_YqDXQu5adWGvY_VEaAVEvPYWX3DjKfyg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "42:40",
+   "lang": "en",
+   "topics": [
+    "genai"
+   ],
+   "about": "Karpathy on how GPT assistants are trained.",
+   "thumb": "bZQun8Y4L2A"
+  },
+  {
+   "id": "v-wjZofJX0v4M",
+   "type": "video",
+   "ytId": "wjZofJX0v4M",
+   "title": "Transformers, the Tech Behind LLMs",
+   "channel": "3Blue1Brown",
+   "handle": "3blue1brown",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
+   "length": "27:14",
+   "lang": "en",
+   "topics": [
+    "genai",
+    "ml"
+   ],
+   "about": "The clearest visual explanation of a transformer.",
+   "thumb": "wjZofJX0v4M"
+  },
+  {
+   "id": "v-eMlx5fFNoYc",
+   "type": "video",
+   "ytId": "eMlx5fFNoYc",
+   "title": "Attention in Transformers, Step by Step",
+   "channel": "3Blue1Brown",
+   "handle": "3blue1brown",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s88-c-k-c0x00ffffff-no-rj",
+   "length": "26:09",
+   "lang": "en",
+   "topics": [
+    "genai",
+    "ml"
+   ],
+   "about": "Attention, visualized.",
+   "thumb": "eMlx5fFNoYc"
+  },
+  {
+   "id": "v-ISNdQcPhsts",
+   "type": "video",
+   "ytId": "ISNdQcPhsts",
+   "title": "Coding a Transformer from Scratch in PyTorch",
+   "channel": "Umar Jamil",
+   "handle": "umarjamilai",
+   "avatar": "https://yt3.googleusercontent.com/prohEQLNtch3TRelWvLjr9aoUMBecNtLHqwO7WYlY0uM1yRP_69aa-gxINvsghoUyi2GvPJRv5w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:59:24",
+   "lang": "en",
+   "topics": [
+    "genai",
+    "papers",
+    "projects"
+   ],
+   "about": "Implements the original transformer paper line by line.",
+   "thumb": "ISNdQcPhsts"
+  },
+  {
+   "id": "v-Mn_9W1nCFLo",
+   "type": "video",
+   "ytId": "Mn_9W1nCFLo",
+   "title": "LLaMA Explained: KV-Cache, RoPE, RMSNorm, GQA",
+   "channel": "Umar Jamil",
+   "handle": "umarjamilai",
+   "avatar": "https://yt3.googleusercontent.com/prohEQLNtch3TRelWvLjr9aoUMBecNtLHqwO7WYlY0uM1yRP_69aa-gxINvsghoUyi2GvPJRv5w=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:10:54",
+   "lang": "en",
+   "topics": [
+    "genai",
+    "papers"
+   ],
+   "about": "The ideas in modern LLM architectures, explained from the paper.",
+   "thumb": "Mn_9W1nCFLo"
+  },
+  {
+   "id": "p-PLKnIA16_Rmva0dRLWEHLznSHKbFD_RJfX",
+   "type": "playlist",
+   "ytId": "PLKnIA16_Rmva0dRLWEHLznSHKbFD_RJfX",
+   "title": "RAG Playlist",
+   "channel": "CampusX",
+   "handle": "campusx-official",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lUgoevWNPCGZJowMs4p6mlt8HdQWdBWvKC47sfvAJ16FM=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "genai"
+   ],
+   "about": "Retrieval-augmented generation in Hindi.",
+   "thumb": "X0btK9X0Xnk"
+  },
+  {
+   "id": "p-PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o",
+   "type": "playlist",
+   "ytId": "PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o",
+   "title": "Hugging Face Course",
+   "channel": "Hugging Face",
+   "handle": "HuggingFace",
+   "avatar": "https://yt3.googleusercontent.com/QhCZTykZ0f6tD2LkKU03ksOjALRXViIO25ZqU0Otncr8BE7bmk8Rzfzh6ojWfN52fvA03TNvCQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "genai"
+   ],
+   "about": "Transformers, datasets and tokenizers from the library authors.",
+   "thumb": "00GKzGyWFEs"
+  },
+  {
+   "id": "p-PLNgoFk5SYUgnte6sqbwyeKAMfvhqLcnkv",
+   "type": "playlist",
+   "ytId": "PLNgoFk5SYUgnte6sqbwyeKAMfvhqLcnkv",
+   "title": "Prompt Engineering Course (Telugu)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "te",
+   "topics": [
+    "genai"
+   ],
+   "about": "Prompting techniques explained in Telugu.",
+   "thumb": "UPkIiUb-QKY"
+  },
+  {
+   "id": "v-9DSK_O3maKc",
+   "type": "video",
+   "ytId": "9DSK_O3maKc",
+   "title": "15 AI Concepts in 15 Minutes (Telugu)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "15:24",
+   "lang": "te",
+   "topics": [
+    "genai"
+   ],
+   "about": "Quick Telugu tour of AI vocabulary.",
+   "thumb": "9DSK_O3maKc"
+  },
+  {
+   "id": "v-sal78ACtGTc",
+   "type": "video",
+   "ytId": "sal78ACtGTc",
+   "title": "What's Next for AI Agentic Workflows",
+   "channel": "Sequoia Capital",
+   "handle": "sequoiacapital",
+   "avatar": "https://yt3.googleusercontent.com/uCN-D7KzMQY-Ti-xTsNAwilXVFFMYjEBRju_mXrR22HUYxJZjVZgP_SnamO9KbPo2XN-nE3O-A=s88-c-k-c0x00ffffff-no-rj",
+   "length": "13:40",
+   "lang": "en",
+   "topics": [
+    "agents",
+    "talks"
+   ],
+   "about": "Andrew Ng on reflection, tool use, planning and multi-agent patterns.",
+   "thumb": "sal78ACtGTc"
+  },
+  {
+   "id": "v-D7_ipDqhtwk",
+   "type": "video",
+   "ytId": "D7_ipDqhtwk",
+   "title": "How We Build Effective Agents",
+   "channel": "AI Engineer",
+   "handle": "aiDotEngineer",
+   "avatar": "https://yt3.googleusercontent.com/ajVemEB89DAOemsbfuMY6ZOWXJAACx3cbty9z21jeqRKODaVkDBSRun1b1xfQJljEsziOWS_Mg=s88-c-k-c0x00ffffff-no-rj",
+   "length": "15:09",
+   "lang": "en",
+   "topics": [
+    "agents"
+   ],
+   "about": "Barry Zhang from Anthropic on when to build agents and how to keep them simple.",
+   "thumb": "D7_ipDqhtwk"
+  },
+  {
+   "id": "v-tzrwxLNHtRY",
+   "type": "video",
+   "ytId": "tzrwxLNHtRY",
+   "title": "Model Context Protocol Clearly Explained",
+   "channel": "codebasics",
+   "handle": "codebasics",
+   "avatar": "https://yt3.googleusercontent.com/KsiMgWx72rX242hG5UIPVMwlIc5i8LUXMDRLLfa8bJvtJmwiMNU4LDveGqQZBx1g8VI-8OGKmD4=s88-c-k-c0x00ffffff-no-rj",
+   "length": "15:04",
+   "lang": "en",
+   "topics": [
+    "agents"
+   ],
+   "about": "What MCP is and why agents use it.",
+   "thumb": "tzrwxLNHtRY"
+  },
+  {
+   "id": "v-Zy7EXDONlTY",
+   "type": "video",
+   "ytId": "Zy7EXDONlTY",
+   "title": "Agentic AI – Complete Course for Beginners",
+   "channel": "freeCodeCamp.org",
+   "handle": "freecodecamp",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lGRc-05M2OoE1ejQdxeFhyP7OkJg9h4Y-7CK_5je3QqFI=s88-c-k-c0x00ffffff-no-rj",
+   "length": "24:15:52",
+   "lang": "en",
+   "topics": [
+    "agents"
+   ],
+   "about": "A full course on building AI agents.",
+   "thumb": "Zy7EXDONlTY"
+  },
+  {
+   "id": "v-iLVyYDbdSmM",
+   "type": "video",
+   "ytId": "iLVyYDbdSmM",
+   "title": "Hugging Face Agents Course: Introduction",
+   "channel": "Hugging Face",
+   "handle": "HuggingFace",
+   "avatar": "https://yt3.googleusercontent.com/QhCZTykZ0f6tD2LkKU03ksOjALRXViIO25ZqU0Otncr8BE7bmk8Rzfzh6ojWfN52fvA03TNvCQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "58:08",
+   "lang": "en",
+   "topics": [
+    "agents"
+   ],
+   "about": "Kickoff of the free Hugging Face agents course.",
+   "thumb": "iLVyYDbdSmM"
+  },
+  {
+   "id": "p-PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL",
+   "type": "playlist",
+   "ytId": "PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL",
+   "title": "Agentic AI using LangGraph",
+   "channel": "CampusX",
+   "handle": "campusx-official",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lUgoevWNPCGZJowMs4p6mlt8HdQWdBWvKC47sfvAJ16FM=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "hi",
+   "topics": [
+    "agents"
+   ],
+   "about": "Agents with LangGraph, explained in Hindi.",
+   "thumb": "yC36gN-rqjo"
+  },
+  {
+   "id": "p-PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl",
+   "type": "playlist",
+   "ytId": "PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl",
+   "title": "Agentic AI",
+   "channel": "Krish Naik",
+   "handle": "krishnaik06",
+   "avatar": "https://yt3.googleusercontent.com/r0lRsN4EgVg_h9TfhKoK-oa9SGtmC4QxvwhEYFB4VWoRXtxsQoyhh2WvrRxpxciTYwh4D4_W=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "agents"
+   ],
+   "about": "Hands-on agent building with LangGraph and MCP.",
+   "thumb": "Qs_j5wRbVr8"
+  },
+  {
+   "id": "v-5HYnlA8c8LA",
+   "type": "video",
+   "ytId": "5HYnlA8c8LA",
+   "title": "AI Agents Explained (Telugu)",
+   "channel": "Vamsi Bhavani",
+   "handle": "VamsiBhavani",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kR5xlDGRogFYYtZWcg3JsmjFRPnjPQjLaEt1VGslAStA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "10:17",
+   "lang": "te",
+   "topics": [
+    "agents"
+   ],
+   "about": "What agents are, in Telugu.",
+   "thumb": "5HYnlA8c8LA"
+  },
+  {
+   "id": "v-iDulhoQ2pro",
+   "type": "video",
+   "ytId": "iDulhoQ2pro",
+   "title": "Attention Is All You Need (paper explained)",
+   "channel": "Yannic Kilcher",
+   "handle": "YannicKilcher",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nqmmpWC-iPIeVF4grbJGcGmoWyYX0E6_PFGITlKv7jTMrh=s88-c-k-c0x00ffffff-no-rj",
+   "length": "27:06",
+   "lang": "en",
+   "topics": [
+    "papers",
+    "genai"
+   ],
+   "about": "A walkthrough of the transformer paper.",
+   "thumb": "iDulhoQ2pro"
+  },
+  {
+   "id": "v-aHZW7TuY_yo",
+   "type": "video",
+   "ytId": "aHZW7TuY_yo",
+   "title": "How I Would Learn LeetCode If I Could Start Over",
+   "channel": "NeetCodeIO",
+   "handle": "NeetCodeIO",
+   "avatar": "https://yt3.googleusercontent.com/WeETyMBPRtDutWCEdhq0qVtpBkYDZQylyncynna6SsTzvjDyeqzjbO7KUcbq2WPPqZDOUJtHsw=s88-c-k-c0x00ffffff-no-rj",
+   "length": "18:03",
+   "lang": "en",
+   "topics": [
+    "interview",
+    "dsa"
+   ],
+   "about": "How to practise problems so the patterns stick.",
+   "thumb": "aHZW7TuY_yo"
+  },
+  {
+   "id": "v-EuPSibuIKIg",
+   "type": "video",
+   "ytId": "EuPSibuIKIg",
+   "title": "Google Coding Interview with a Competitive Programmer",
+   "channel": "Clément Mihailescu",
+   "handle": "clem",
+   "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_koIU1OQ1u1tCCZkWN0Q_gvs9kCc3xEDz7pGQjtl32ugqyY=s88-c-k-c0x00ffffff-no-rj",
+   "length": "54:16",
+   "lang": "en",
+   "topics": [
+    "interview",
+    "dsa"
+   ],
+   "about": "A full mock interview with Errichto. See how a strong candidate thinks aloud.",
+   "thumb": "EuPSibuIKIg"
+  },
+  {
+   "id": "v-L9TfZdODuFQ",
+   "type": "video",
+   "ytId": "L9TfZdODuFQ",
+   "title": "How to Answer System Design Interview Questions",
+   "channel": "Aced (formerly Exponent)",
+   "handle": "aced_io",
+   "avatar": "https://yt3.googleusercontent.com/3hsNjyCcsM-WOg54czXlLOUs7HLtjtFzlK3fE4YLbq5HoE5_64Rm8vHTMH4wr4cWy1h6qMYhlA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "7:10",
+   "lang": "en",
+   "topics": [
+    "interview",
+    "sysdesign"
+   ],
+   "about": "A short framework for system design rounds.",
+   "thumb": "L9TfZdODuFQ"
+  },
+  {
+   "id": "v-Z-0g_aJL5Fw",
+   "type": "video",
+   "ytId": "Z-0g_aJL5Fw",
+   "title": "System Design Mock Interview: Design TikTok",
+   "channel": "Aced (formerly Exponent)",
+   "handle": "aced_io",
+   "avatar": "https://yt3.googleusercontent.com/3hsNjyCcsM-WOg54czXlLOUs7HLtjtFzlK3fE4YLbq5HoE5_64Rm8vHTMH4wr4cWy1h6qMYhlA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "33:11",
+   "lang": "en",
+   "topics": [
+    "interview",
+    "sysdesign"
+   ],
+   "about": "A realistic mock interview to learn the format.",
+   "thumb": "Z-0g_aJL5Fw"
+  },
+  {
+   "id": "p-PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL",
+   "type": "playlist",
+   "ytId": "PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL",
+   "title": "System Design Interview Prep",
+   "channel": "Aced (formerly Exponent)",
+   "handle": "aced_io",
+   "avatar": "https://yt3.googleusercontent.com/3hsNjyCcsM-WOg54czXlLOUs7HLtjtFzlK3fE4YLbq5HoE5_64Rm8vHTMH4wr4cWy1h6qMYhlA=s88-c-k-c0x00ffffff-no-rj",
+   "length": "",
+   "lang": "en",
+   "topics": [
+    "interview",
+    "sysdesign"
+   ],
+   "about": "Many mock system design interviews in one place.",
+   "thumb": "cL9If4X7aaE"
+  },
+  {
+   "id": "v-LCEmiRjPEtQ",
+   "type": "video",
+   "ytId": "LCEmiRjPEtQ",
+   "title": "Software Is Changing (Again)",
+   "channel": "Y Combinator",
+   "handle": "ycombinator",
+   "avatar": "https://yt3.googleusercontent.com/dGyATx87Fp_s1nZvnupUFSnMqbAPZ6nqRby9Esk1m6YE41iBq-9Z8iGoIgHTCT9SiDBUpP2V=s88-c-k-c0x00ffffff-no-rj",
+   "length": "39:31",
+   "lang": "en",
+   "topics": [
+    "talks",
+    "genai"
+   ],
+   "about": "Karpathy on Software 3.0 and building for LLMs.",
+   "thumb": "LCEmiRjPEtQ"
+  },
+  {
+   "id": "v-96jN2OCOfLs",
+   "type": "video",
+   "ytId": "96jN2OCOfLs",
+   "title": "From Vibe Coding to Agentic Engineering",
+   "channel": "Sequoia Capital",
+   "handle": "sequoiacapital",
+   "avatar": "https://yt3.googleusercontent.com/uCN-D7KzMQY-Ti-xTsNAwilXVFFMYjEBRju_mXrR22HUYxJZjVZgP_SnamO9KbPo2XN-nE3O-A=s88-c-k-c0x00ffffff-no-rj",
+   "length": "29:49",
+   "lang": "en",
+   "topics": [
+    "talks",
+    "agents"
+   ],
+   "about": "Karpathy on how coding with agents is changing engineering.",
+   "thumb": "96jN2OCOfLs"
+  },
+  {
+   "id": "v-lXUZvyajciY",
+   "type": "video",
+   "ytId": "lXUZvyajciY",
+   "title": "Andrej Karpathy: We're Summoning Ghosts, Not Building Animals",
+   "channel": "Dwarkesh Patel",
+   "handle": "DwarkeshPatel",
+   "avatar": "https://yt3.googleusercontent.com/lG-z7sTfhFIW2Ne1oXMHvXMXyZSaA02_I17gUel0GAEj7OypsSHQ7PE91Vp4bTbpm3PTIAWJdko=s88-c-k-c0x00ffffff-no-rj",
+   "length": "2:26:08",
+   "lang": "en",
+   "topics": [
+    "talks",
+    "genai"
+   ],
+   "about": "A long, thoughtful interview on where AI is heading.",
+   "thumb": "lXUZvyajciY"
+  },
+  {
+   "id": "v-ZSRHeXYDLko",
+   "type": "video",
+   "ytId": "ZSRHeXYDLko",
+   "title": "Preventing the Collapse of Civilization",
+   "channel": "DevGAMM",
+   "handle": "DevGAMMchannel",
+   "avatar": "https://yt3.googleusercontent.com/ZEqREEY2nlObK7FsXOZXZDs8PQ8E_ZE1hh899bFLafV3OYSmv4gboZKQKHEo9tK2S1hIDIIHZQ=s88-c-k-c0x00ffffff-no-rj",
+   "length": "1:02:41",
+   "lang": "en",
+   "topics": [
+    "talks"
+   ],
+   "about": "Jonathan Blow on why software keeps getting worse, and what to do.",
+   "thumb": "ZSRHeXYDLko"
+  }
+ ]
+}
