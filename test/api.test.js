@@ -108,3 +108,23 @@ test('gzip for large responses', async () => {
   const body = await r.json();
   assert.equal(body.items.length, 100);
 });
+
+test('Vercel rewrite form (/api?__path=...) reaches the same API', async () => {
+  const list = await get('/api?__path=videos&lang=te&limit=3');
+  assert.equal(list.status, 200);
+  assert.equal(list.body.items.length, 3);
+  assert.ok(list.body.items.every(i => i.lang === 'te'));
+  const one = await get('/api?__path=videos/v-rfscVS0vtbw');
+  assert.equal(one.body.item.ytId, 'rfscVS0vtbw');
+  const s = await get('/api?__path=search&q=striver');
+  assert.ok(s.body.total > 0);
+});
+
+test('vercel.json routes every app page to index.html and /api to the function', () => {
+  const cfg = require('../vercel.json');
+  assert.equal(cfg.outputDirectory, 'public');
+  const sources = cfg.rewrites.map(r => r.source);
+  for (const s of ['/watch', '/results', '/paths', '/feed/history', '/@:handle', '/api/:path*']) assert.ok(sources.includes(s), s);
+  const all = cfg.headers.find(h => h.source === '/(.*)');
+  assert.ok(all.headers.some(h => h.key === 'Content-Security-Policy'));
+});

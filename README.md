@@ -25,20 +25,27 @@ To use a different port: `PORT=8080 node server.js` (on Windows PowerShell: `$en
 
 ## Put it online so anyone can open the link
 
-Any host that runs Node works. One free option is [Render](https://render.com):
+### Vercel (recommended)
 
-1. Push the `code-tube` folder to a GitHub repository.
-2. On Render, choose **New → Web Service** and pick the repository.
-3. Set **Runtime** to Node, leave **Build Command** empty, and set **Start Command** to `node server.js`.
-4. Create the service. Render gives you a public link like `https://codetube.onrender.com`.
+The repo is ready for Vercel: `vercel.json` serves `public/` as static files, sends every `/api/*` request to the serverless function in `api/index.js`, and routes app pages like `/watch` and `/@channel` to `index.html`.
 
-Railway, Fly.io, a VPS or any similar host works the same way: run `node server.js` and the host provides the `PORT` variable. On free plans the site may take a few seconds to wake up after a quiet period.
+1. Go to [vercel.com/new](https://vercel.com/new) and sign in with GitHub.
+2. Import the `code-tube` repository.
+3. Leave the settings as they are (Framework Preset: Other) and click **Deploy**.
+
+Vercel gives you a link like `https://code-tube.vercel.app`. Every push to `main` redeploys the site automatically.
+
+### Any Node host (Render, Railway, a VPS)
+
+Run `node server.js` as the start command. The host provides the `PORT` variable. On free plans the site may take a few seconds to wake up after a quiet period.
 
 ## How it works
 
 ```
 code-tube/
 ├── server.js           Node HTTP server: JSON API + static files (no dependencies)
+├── api/index.js        Vercel serverless entry point (reuses server.js)
+├── vercel.json         Vercel routing and security headers
 ├── data/catalog.json   The catalog: topics, learning paths and all videos
 ├── public/
 │   ├── index.html      App shell (header, search, navigation)

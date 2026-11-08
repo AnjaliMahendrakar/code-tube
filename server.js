@@ -9,7 +9,8 @@ const zlib = require('zlib');
 
 const PORT = Number(process.env.PORT) || 3000;
 const PUBLIC_DIR = path.join(__dirname, 'public');
-const catalog = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'catalog.json'), 'utf8'));
+const catalog = require('./data/catalog.json');
+const ON_VERCEL = !!process.env.VERCEL;
 
 /* ---------- catalog indexes ---------- */
 const LANGS = { en: 'English', hi: 'Hindi', te: 'Telugu' };
@@ -183,7 +184,8 @@ function send(req, res, status, body, type, extra = {}) {
   const headers = { 'Content-Type': type, ...SECURITY_HEADERS, ...extra };
   const buf = Buffer.isBuffer(body) ? body : Buffer.from(body);
   const compressible = /^(text\/|application\/(json|manifest)|image\/svg)/.test(type) && buf.length > 1024;
-  if (compressible && /\bgzip\b/.test(req.headers['accept-encoding'] || '')) {
+  // Vercel compresses responses itself, so only gzip when running our own server.
+  if (!ON_VERCEL && compressible && /\bgzip\b/.test(req.headers['accept-encoding'] || '')) {
     headers['Content-Encoding'] = 'gzip';
     headers['Vary'] = 'Accept-Encoding';
     res.writeHead(status, headers);
@@ -200,12 +202,17 @@ function sendFile(req, res, file, cache) {
   });
 }
 
-const server = http.createServer((req, res) => {
+function handler(req, res) {
   if (req.method !== 'GET' && req.method !== 'HEAD') {
     return send(req, res, 405, JSON.stringify({ error: 'Method not allowed.' }), TYPES['.json'], { Allow: 'GET, HEAD' });
   }
   let url;
   try { url = new URL(req.url, 'http://localhost'); } catch { return send(req, res, 400, 'Bad request', TYPES['.txt']); }
+  // On Vercel, vercel.json rewrites /api/<route> to /api?__path=<route>.
+  if (url.pathname === '/api' && url.searchParams.has('__path')) {
+    url.pathname = '/api/' + url.searchParams.get('__path').replace(/^\/+/, '');
+    url.searchParams.delete('__path');
+  }
 
   if (url.pathname.startsWith('/api/')) {
     let status, body;
@@ -225,10 +232,12 @@ const server = http.createServer((req, res) => {
     if (err || !st.isFile()) return send(req, res, 404, 'Not found', TYPES['.txt']);
     sendFile(req, res, file, 'public, max-age=3600');
   });
-});
+}
+
+const server = http.createServer(handler);
 
 if (require.main === module) {
   server.listen(PORT, () => console.log(`CodeTube running at http://localhost:${PORT}`));
 }
 
-module.exports = { server, search, related };
+module.exports = { server, handler, search, related, SECURITY_HEADERS };
